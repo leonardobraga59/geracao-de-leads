@@ -1,8 +1,10 @@
 # Um para muitos
 
-Abra este arquivo quando a pergunta for como atrair muita gente de uma vez, em público, com conteúdo gratuito ou com anúncio pago. Para a lógica geral (lead engajado, os quatro métodos, equação de valor, isca digital, regra dos 100, mais-melhor-novo), veja [fundamentos.md](fundamentos.md). Para mensagem privada, veja [contato-um-a-um.md](contato-um-a-um.md). Para indicação, afiliados, funcionários e agências, veja [quem-traz-lead.md](quem-traz-lead.md).
+Abra este arquivo quando a pergunta for como atrair muita gente de uma vez, em público, com conteúdo gratuito ou com anúncio pago. Para a lógica geral (lead engajado, os quatro métodos, equação de valor, isca digital, a heurística dos 100, mais-melhor-novo), veja [fundamentos.md](fundamentos.md). Para mensagem privada, veja [contato-um-a-um.md](contato-um-a-um.md). Para indicação, afiliados, funcionários e agências, veja [quem-traz-lead.md](quem-traz-lead.md).
 
 Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto que o cliente deixa ao longo da vida com você. CTA é a chamada para ação.
+
+Números, razões e prazos do autor (100 minutos, 100 dólares, 3 para 1, frequências de postagem) são referências do contexto dele, nunca exigência universal nem garantia de viabilidade. O que leva "(adaptação desta skill)" é correção ou acréscimo desta skill: não vem do livro nem do curso.
 
 ## Conteúdo ou anúncio, em uma tabela
 
@@ -12,7 +14,7 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 | Custo | Tempo, não dinheiro | Dinheiro, mais o custo de aprender |
 | Velocidade | Aposta de anos | Escala imediata, porque o alcance é comprado |
 | O que o dinheiro garante | Nada | O alcance. O que não vem garantido é o retorno |
-| Medida de sucesso | A audiência cresce | LTGP maior que CAC, com folga |
+| Medida de sucesso | A audiência cresce, e depois leads de qualidade e vendas | Contribuição por cliente acima do CAC, com folga (o autor usa a razão LTGP:CAC) |
 | Feedback | Difícil de ligar a uma venda | Retorno visível por anúncio |
 | Ordem recomendada | Depois do contato com quem você conhece | Por último, porque aproveita a habilidade dos outros e custa dinheiro |
 | Como se ajudam | O melhor conteúdo vira o melhor anúncio, e o conteúdo aquece quem depois vê o anúncio | O anúncio "espreme" quem o conteúdo já aqueceu |
@@ -273,10 +275,10 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 
 **Rotina do autor.** Achar tópicos pelas cinco fontes (cerca de 1 hora). Duas vezes por mês, gravar cerca de 30 clipes curtos. No mesmo dia, gravar de 2 a 4 vídeos longos que desenvolvem posts que tinham histórias ou exemplos. Depois de dois anos assim, ele diz ter chegado a uma audiência de 5 ou 6 milhões. Ele defende que o tempo de produção é superestimado e a qualidade do tema subestimada, e que conteúdo compartilhável é o que as plataformas mais premiam (curso, Mozi Media Content Method Pt II; livro).
 
-**Checklist diário do livro.** Valor sem pedir, em qualquer plataforma, para quem já segue, toda manhã, sete dias por semana, 100 minutos por dia (livro). A regra dos 100 em geral está em [fundamentos.md](fundamentos.md).
+**Checklist diário do livro.** Valor sem pedir, em qualquer plataforma, para quem já segue, toda manhã, sete dias por semana, 100 minutos por dia (livro). É a heurística de constância do autor, não a meta obrigatória: dimensione pelo tempo da equipe e pela capacidade de responder a quem reagir. A heurística dos 100 em geral está em [fundamentos.md](fundamentos.md), seção 12.
 
 **Regras e números.**
-- Frequência, versão do livro: em vídeo curto, até 10 posts por dia por plataforma. Em formato longo, até 5 dias por semana, como novela (livro).
+- Frequência, versão do livro: em vídeo curto, até 10 posts por dia por plataforma. Em formato longo, até 5 dias por semana, como novela (livro). São tetos que o autor pratica, não metas para quem tem equipe pequena.
 - Frequência, versão do curso: vídeo curto até cerca de 10 por dia em plataformas como Twitter e TikTok. Vídeo longo tem ponto ideal bem menor, algo como uma vez por semana ou a cada poucos dias (curso, Mozi Media Content Method Pt II). O curso não traz meta fixa além disso.
 - Lembrar mais do que ensinar. Repita a mensagem, sobretudo o que você vende. Quem cria enjoa do conteúdo muito antes da audiência (curso, Mozi Media Content Method Pt II; livro). Um levantamento dele mostrou que parte da audiência não sabia do livro, apesar de ele falar disso quase todo dia. O curso diz 1 em 6, o livro diz 1 em 5.
 - Postar na hora, sem agendar. É teoria dele, sem prova: ao publicar manualmente, você faz uma última revisão de título e legenda (curso, Mozi Media Content Method Pt II; livro).
@@ -291,7 +293,7 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 2. Que peça minha funcionaria em duas ou três plataformas com ajuste mínimo?
 3. Em que dia do mês eu gravo 20 ou 30 clipes de uma vez?
 4. Que mensagem sobre minha oferta eu já repeti pouco e a audiência ainda pode não saber?
-5. Que quantidade diária eu consigo manter por 100 dias sem cair?
+5. Que quantidade diária eu consigo manter por três meses sem cair, sem sacrificar a qualidade nem o atendimento de quem responde?
 6. Qual canal eu estou ignorando e onde meu concorrente quase não aparece?
 
 ## Conteúdo como ferramenta de venda e de anúncio (Content as sales tool)
@@ -331,6 +333,7 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 4. Controlar só os insumos: cadência de postagem por plataforma, cadência de pedido e não parar. Manter a cadência constante antes de interpretar o resultado (curso, Mozi Media Content Method Pt II; livro).
 
 **Regras e números.** De 1.000 para 1.500 seguidores são 500 a mais, ou 50% no mês. Alcance de 10.000 para 15.000 também é 50%. O critério de sucesso é a audiência crescer, e crescer mais rápido é melhor. O curso não dá benchmark de conversão (curso, Mozi Media Content Method Pt II).
+(adaptação desta skill) Audiência é métrica de topo. Para saber se o conteúdo ajuda o negócio, acompanhe também os leads engajados que vieram dele, a qualidade deles (aderência e intenção), as vendas e o custo total em tempo e dinheiro. Definições em [metricas-experimentos.md](metricas-experimentos.md).
 
 **Exemplo curto (ilustração).** Em março, a marca tem 2.000 seguidores e alcance de 8.000 por semana. Em abril, 2.300 e 10.000. Crescimento de 15% e 25%. A pergunta do mês seguinte é qual insumo (frequência ou formato) mudou.
 
@@ -424,6 +427,7 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 - Prefira ser específico demais a amplo demais, na lógica das poças (curso, Paid Ads Playbook Pt I).
 - Mercado local já é muito estreito, cerca de 0,1% do país no exemplo do curso. Use no máximo um filtro. Local tem confiança embutida, e citar um ponto conhecido ajuda (curso, Paid Ads Playbook Pt I).
 - Falta tamanho mínimo de lista para o público semelhante: o curso diz que existe e não diz o número (curso, Paid Ads Playbook Pt I).
+- (adaptação desta skill) Só suba como semente a lista de quem tem relação com o negócio e a permissão cabível. Dado público ou lista comprada não autoriza o uso, e as regras da plataforma e as leis de proteção de dados valem. Confirme antes de uma operação real.
 
 **Exemplo curto (ilustração).** Uma loja de pet em Maringá sobe a lista dos 400 clientes que mais compram. A plataforma cria um público parecido, e a dona acrescenta só o filtro "raio de 10 km".
 
@@ -522,7 +526,7 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 5. Que trabalho ou sacrifício ele acredita ser necessário e que eu elimino?
 6. Que ângulo de custo de não agir eu nunca usei porque parece pesado?
 7. Qual é o ângulo mais específico que ainda cabe no tempo do anúncio?
-8. Que combinação de elemento, pessoa e momento eu posso testar esta semana?
+8. Que combinação de elemento, pessoa e momento eu posso testar primeiro?
 
 ## CTA e página de captura (Call to action, Landing page)
 
@@ -562,12 +566,13 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 
 **Passo a passo.**
 1. Grave cerca de 10 miolos de valor (uma crença quebrada, uma habilidade demonstrada, um detalhe novo) e, à parte, 30 ou mais aberturas de uns 5 segundos, em forma de pergunta ou primeira frase. Cada abertura colada em cada miolo gera 300 variações. Ache a melhor abertura e depois o melhor miolo nela (curso, Paid Ads Playbook Pt I e Pt II; livro).
-2. Teste uma coisa por semana, por plataforma, de frente para trás (chamada antes de página e imagem), com registro de testes e volume suficiente antes de concluir. A rotina completa, a ordem de prioridade e o cálculo do gargalo estão em [fundamentos.md](fundamentos.md), seções 13 e 15.
+2. Teste uma coisa por vez, por plataforma, de frente para trás (chamada antes de página e imagem), com registro de testes e volume suficiente antes de concluir. A rotina completa, a ordem de prioridade e o cálculo do gargalo estão em [fundamentos.md](fundamentos.md), seções 13 e 15.
+3. (adaptação desta skill) A revisão semanal organiza o trabalho, mas não torna o resultado conclusivo. Sem amostra suficiente, ou com o ciclo de venda incompleto, registre "inconclusivo" e estenda o teste. Ficha de teste e critérios de decisão em [metricas-experimentos.md](metricas-experimentos.md).
 
 **Regras e números.**
 - O teto de escala não é da plataforma, é da qualidade do anúncio. O 0,1% melhor testa cerca de 11 vezes mais criativos que o resto, segundo uma análise do Facebook citada pelo autor (curso, Paid Ads Playbook Pt I; livro).
 - Quem faz 10 anúncios por mês provavelmente é um anunciante de mil dólares por dia. Para escalar para dezenas de milhões com lucro, é preciso muito mais teste de gancho, miolo e CTA (curso, Paid Ads Playbook Pt I).
-- Ritmo do livro: cerca de 10 anúncios novos e 30 ou mais aberturas por semana. Ritmo do curso: 10 miolos e 30 ganchos, sem prazo fixo (livro; curso, Paid Ads Playbook Pt I).
+- Ritmo do livro: cerca de 10 anúncios novos e 30 ou mais aberturas por semana. Ritmo do curso: 10 miolos e 30 ganchos, sem prazo fixo (livro; curso, Paid Ads Playbook Pt I). São referências do autor para quem tem equipe e verba de mídia; dimensione pela produção e pelo orçamento que o negócio tem.
 - O foco é eficiência, não criatividade. Deixe o anúncio bom o bastante para escalar e veja o que quebra depois. Não gaste a semana trocando vermelho por vermelho vivo (livro).
 
 **Exemplo curto (ilustração).** Uma consultoria de RH grava 8 miolos de 40 segundos e 24 aberturas de 5 segundos. Em uma semana, testa as 24 aberturas no melhor miolo, escolhe a vencedora e na semana seguinte testa os 8 miolos nela.
@@ -577,7 +582,7 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 **Perguntas para gerar ideias**
 1. Quais são os 30 primeiros segundos de abertura que eu consigo gravar em uma tarde?
 2. Quais miolos (crença quebrada, demonstração, detalhe novo) eu já tenho gravados em reuniões ou vídeos?
-3. Que teste da semana vem do passo do funil com maior queda?
+3. Que teste vem do passo do funil com maior queda, e quanto tempo ele precisa para dar amostra?
 4. Onde eu registro o resultado de cada teste?
 5. Que variável eu estou tentando mudar pela terceira vez sem resultado?
 6. Que peça do meu orgânico vale virar miolo de anúncio?
@@ -585,7 +590,7 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 
 ## Eficiência, LTGP sobre CAC e diagnóstico (Efficiency, LTGP:CAC)
 
-**O que é.** O material parte da premissa de que qualquer anúncio gera algum resultado, e a pergunta útil é a que custo. A régua é a razão entre o lucro bruto que o cliente deixa ao longo da vida (LTGP) e o custo para adquiri-lo (CAC). A conta usa lucro bruto, não receita nem valor de vida (LTV), porque lucro bruto é o dinheiro de verdade que paga aquisição, aluguel e folha (curso, Paid Ads Playbook Pt II; livro).
+**O que é.** O material parte da premissa de que qualquer anúncio gera algum resultado, e a pergunta útil é a que custo. A régua do autor é a razão entre o lucro bruto que o cliente deixa ao longo da vida (LTGP) e o custo para adquiri-lo (CAC). A conta usa lucro bruto, não receita nem valor de vida (LTV), porque lucro bruto é o dinheiro de verdade que paga aquisição, aluguel e folha (curso, Paid Ads Playbook Pt II; livro).
 
 **Quando usar.** Antes de anunciar. Se você não sabe a margem bruta, o curso diz para não começar.
 
@@ -593,23 +598,24 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 1. Lucro bruto por venda = preço menos custo de entregar.
 2. LTGP = lucro bruto por venda multiplicado pelo número de compras ao longo da vida.
 3. Dividir o LTGP pelo CAC.
-4. Se menor que 3, mexer em uma das duas alavancas: baixar o CAC (anúncio melhor, segmentação, menos etapas, vendas melhores, teste de página, plataforma mais barata) ou subir o LTGP (modelo de negócio melhor). O ideal é mexer nas duas (curso, Paid Ads Playbook Pt II; livro).
+4. Se ficar abaixo da referência do autor (3 para 1), mexer em uma das duas alavancas: baixar o CAC (anúncio melhor, segmentação, menos etapas, vendas melhores, teste de página, plataforma mais barata) ou subir o LTGP (modelo de negócio melhor). O ideal é mexer nas duas (curso, Paid Ads Playbook Pt II; livro).
 5. Para saber se o problema é o anúncio, a venda ou o modelo, use o diagnóstico de [fundamentos.md](fundamentos.md), seção 3, que inclui a comparação com o CAC médio do setor.
+6. (adaptação desta skill) Em assinatura, o LTGP vem de uma permanência suposta. Compare o CAC com a contribuição observada por coorte e horizonte (por exemplo, o lucro bruto acumulado até o mês 3, 6 e 12 de quem entrou em cada mês), sem supor permanência ilimitada. CAC completo (mídia, trabalho alocado, ferramentas e comissões, sem custo contado duas vezes) e o tratamento de denominador zero estão em [metricas-experimentos.md](metricas-experimentos.md).
 
 **Regras e números.**
-- Mínimo de 3 para 1. O autor observou que todo negócio dele que não escalava estava abaixo disso e que, ao passar, decolava. Ele diz que é padrão observado, não regra (livro; curso, Paid Ads Playbook Pt II). A meta dele nas empresas do portfólio é 10 para 1 no mínimo, com algumas acima de 20 para 1 (curso, Paid Ads Playbook Pt II).
+- Referência do autor: 3 para 1 como mínimo. Ele observou que todo negócio dele que não escalava estava abaixo disso e que, ao passar, decolava. Ele diz que é padrão observado, não regra (livro; curso, Paid Ads Playbook Pt II). A meta dele nas empresas do portfólio é 10 para 1 no mínimo, com algumas acima de 20 para 1 (curso, Paid Ads Playbook Pt II). São números do contexto dele: nenhuma razão garante viabilidade, que depende de margem, permanência observada, ciclo de caixa e capacidade de entregar.
 - Quanto mais cedo recuperar o CAC, mais rápido reinvestir. Se empatar em 1 ou 2 dias, o ciclo de caixa é curto (curso, Paid Ads Playbook Pt II).
 - O CAC costuma variar só de 1 a 3 vezes entre empresas do mesmo setor. Quem se destaca ganha cerca de 10 vezes mais por cliente. O autor conta um concorrente com o mesmo número de vendas e 56 vezes menos lucro, porque não entregava valor para cobrar mais (curso, Paid Ads Playbook Pt II).
 - Quem lucra mais por cliente pode superar o lance de todos num leilão e elevar o custo do mercado, o que ele chama de "monopólio ético" (curso, Paid Ads Playbook Pt II).
 - Baixar custo tem piso (tende a zero). Subir o ganho não tem teto (livro).
 - Exemplo do material: produto de 15, custo de 5, comprado 10 vezes, dá LTGP de 100. Um negócio de refeições prontas gastava 100 para trazer 500 de receita, mas com margem de 10% o lucro era 50, e perdia dinheiro (curso, Paid Ads Playbook Pt II).
 
-**Exemplo curto (ilustração).** Uma academia cobra 120 por mês, custo de 50, permanência de 8 meses. Lucro por mês 70, LTGP 560. Pagando 150 por aluno novo, a razão é 3,7 para 1. Se o CAC subir para 300, a razão cai para 1,9 e o problema precisa de nova mexida.
+**Exemplo curto (ilustração).** Uma academia cobra 120 por mês, custo de 50, permanência de 8 meses. Lucro por mês 70, LTGP 560 se a permanência de 8 meses se confirmar nas coortes. Pagando 150 por aluno novo, a razão é 3,7 para 1, acima da referência do autor, mas só enquanto a permanência observada sustentar a conta. Se o CAC subir para 300, a razão cai para 1,9 e o problema precisa de nova mexida.
 
 **Erros comuns.** Culpar o anúncio quando o problema é o lucro por cliente. Confundir "funciona" com "é eficiente". Perseguir CAC cada vez menor. Usar receita em vez de lucro bruto (curso, Paid Ads Playbook Pt II; livro).
 
 **Perguntas para gerar ideias**
-1. Qual é o lucro bruto médio de um cliente ao longo da vida no meu negócio?
+1. Qual é o lucro bruto de um cliente ao longo da vida no meu negócio, observado por coorte, e não suposto?
 2. Quanto custa hoje trazer um cliente por cada canal?
 3. Que compra adicional eu poderia vender para subir o LTGP sem tocar no anúncio?
 4. Meu CAC está até 3 vezes o do setor? Se sim, que parte do modelo de negócio é a fraca?
@@ -630,9 +636,10 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 
 **Regras e números.**
 - A conta de cassino do material: 10 anúncios de 100, nove perdem tudo e um devolve 500. Ainda é prejuízo de 500, mas há um vencedor. Gaste 10.000 nele e volte 50.000 (livro). Em 300 anúncios, algo como 295 não prestam, 5 dão retorno e 1 é um home run (curso, Paid Ads Playbook Pt II).
-- Teste de um anúncio novo, versão do livro: o orçamento de teste vale 2 vezes o caixa que um cliente novo gera em 30 dias. Se o anúncio não gerar nenhum lead antes de gastar 1 vez esse valor, desligue. Exemplo: cliente que deixa 100 de lucro nos primeiros 30 dias, teste até 200, desliga em 100 se zero lead (livro).
+- Teste de um anúncio novo, versão do livro (referência do autor, não fórmula universal): o orçamento de teste vale 2 vezes o caixa que um cliente novo gera em 30 dias. Se o anúncio não gerar nenhum lead antes de gastar 1 vez esse valor, desligue. Exemplo: cliente que deixa 100 de lucro nos primeiros 30 dias, teste até 200, desliga em 100 se zero lead (livro).
 - Conta de escala, versão do livro: clientes desejados vezes o CAC, mais 20% de folga porque a eficiência cai ao escalar, dividido por 30 dias. Meta de 100 clientes a 100 cada dá 10.000, mais 20% são 12.000, ou 400 por dia (livro). A versão do curso é a mesma conta sem a folga de 20%: 20 clientes novos por mês com CAC de 100 dão 2.000 por mês, cerca de 70 por dia. O teto é a capacidade de entregar, e destravar a entrega permite subir (curso, Paid Ads Playbook Pt II).
-- Orçamento de aprendizado: um valor mensal que você aceita perder, para aprender. O funil inteiro, do clique ao fechamento, pode levar de 3 a 6 meses para funcionar (curso, Paid Ads Playbook Pt II). As faixas de cada fonte (1% a 10% do orçamento, valor fixo, os primeiros 100 dólares) estão em [fundamentos.md](fundamentos.md), seção 16, e as duas versões da regra dos 100 em anúncio (100 minutos ou 100 dólares por dia), na seção 12.
+- Orçamento de aprendizado: um valor mensal que você aceita perder, para aprender. O funil inteiro, do clique ao fechamento, pode levar de 3 a 6 meses para funcionar (curso, Paid Ads Playbook Pt II). As faixas de cada fonte (1% a 10% do orçamento, valor fixo, os primeiros 100 dólares) estão em [fundamentos.md](fundamentos.md), seção 16, e as duas versões do autor para a regra dos 100 em anúncio (100 minutos ou 100 dólares por dia), na seção 12. São referências dele, não orçamento recomendado.
+- (adaptação desta skill) Antes de gastar, escreva a hipótese, o teto de gasto, o volume previsto e o critério de decisão (ficha em [metricas-experimentos.md](metricas-experimentos.md)). Pare antes do teto se houver problema operacional (rastreio quebrado, atendimento sem dar conta) ou evidência clara de baixa aderência. Com poucas conversões ou ciclo de venda aberto, o resultado é inconclusivo.
 - Ao dominar a conta, conseguir cliente deixa de ser o gargalo e o gargalo passa a ser vendedores, entrega etc. (curso, Paid Ads Playbook Pt II).
 
 **Exemplo curto (ilustração).** Uma escola de inglês quer 30 alunos novos por mês e aceita pagar 180 por aluno. Orçamento: 5.400 mais 20% de folga, 6.480 por mês, 216 por dia. Antes disso, ela destina 600 por mês só para testar aberturas, aceitando perder.
@@ -652,7 +659,7 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 
 **O que é.** Desenhar a oferta para que o cliente pague, em 30 dias, mais do que custou adquirir e entregar a ele. O caixa deixa de ser o gargalo (curso, Paid Ads Playbook Pt II; livro).
 
-**Quando usar.** Quando LTGP sobre CAC já passa de 3, mas o lucro vem em prestações (por exemplo, assinatura mensal) e o dinheiro volta em meses, travando a escala.
+**Quando usar.** Quando a contribuição por cliente já supera o CAC com folga (o autor usa 3 para 1 como referência), mas o lucro vem em prestações (por exemplo, assinatura mensal) e o dinheiro volta em meses, travando a escala.
 
 **Passo a passo.**
 1. Calcule o que entra nos primeiros 30 dias contra o CAC mais o custo de entrega.
@@ -662,7 +669,7 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 
 **Regras e números.**
 - Exemplo dos dois: mensalidade de 15, custo de 5, lucro de 10, permanência de 10 meses, LTGP de 100. CAC de 30 dá razão de 3,3 para 1, mas leva de 3 a 4 meses para empatar. Um upsell de 100 de lucro aceito por 20% das pessoas rende 20 por cliente, o que somado aos 10 do primeiro mês cobre os 30 do CAC no primeiro mês (curso, Paid Ads Playbook Pt II; livro).
-- Com retorno de 2 ou 3 para 1 em 30 dias, o crescimento compõe (2, 4, 8, 16, 32...). O curso cita algo como 4.000 vezes mais clientes em um ano, admitindo que outro gargalo apareceria antes (curso, Paid Ads Playbook Pt II).
+- Com retorno de 2 ou 3 para 1 em 30 dias, o crescimento compõe (2, 4, 8, 16, 32...). O curso cita algo como 4.000 vezes mais clientes em um ano, admitindo que outro gargalo apareceria antes (curso, Paid Ads Playbook Pt II). É conta teórica: ignora cancelamento, saturação do público e capacidade de entrega, e não serve de projeção.
 - O autor diz ter escalado todas as empresas dos últimos 7 anos a mais de 1 milhão por mês em 12 meses sem investimento externo. É afirmação dele (livro).
 - O livro explica o princípio e o curso remete a outro treinamento sobre modelos de dinheiro, não incluído aqui (curso, Paid Ads Playbook Pt II).
 
@@ -682,7 +689,7 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 
 **O que é.** Como crescer depois de achar um anúncio vencedor e como saber se o problema é anúncio, venda ou modelo.
 
-**Quando usar.** Depois de LTGP sobre CAC passar de 3 e o primeiro anúncio dar lucro, ou quando o funil "não dá resultado".
+**Quando usar.** Depois de a economia fechar (o autor usa a razão LTGP:CAC de 3 para 1 como referência) e o primeiro anúncio dar lucro, ou quando o funil "não dá resultado".
 
 **Passo a passo.**
 1. Mais: dobre a aposta no vencedor até quebrar. Depois, melhore o ponto que quebrou, de preferência pela rotina de testes semanal (seção de volume de criativos). Só então vá ao novo.
@@ -694,7 +701,7 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 - Usar a falta de jeito com tecnologia como desculpa custa caro: o autor adiou a página por 4 anos e a resolveu em 4 horas (curso, Paid Ads Playbook Pt II; livro).
 - Desistir "a 15 centímetros do ouro" é o erro mais caro. A fábula do dado de muitos lados, que fecha o livro, reforça a ideia ([fundamentos.md](fundamentos.md), seção 19).
 
-**Exemplo curto (ilustração).** Um instituto de idiomas tem anúncio com CAC de 160 e razão de 4 para 1. Os leads chegam, 70% agendam e 80% comparecem, mas só 15% fecham. O gestor não mexe no anúncio: treina a venda e testa uma garantia de satisfação.
+**Exemplo curto (ilustração).** Um instituto de idiomas tem anúncio com CAC de 160 e razão de 4 para 1. Os leads chegam, 70% agendam e 80% comparecem, mas só 15% fecham. O gestor não mexe no anúncio: treina a venda e testa uma garantia de satisfação, e só julga o efeito quando houver fechamentos suficientes para comparar.
 
 **Erros comuns.** Demitir quem faz anúncio quando o problema é a venda, e o contrário. Dizer "cheguei no máximo" em vez de admitir que o anúncio não é tão bom quanto se pensava. Parar no último passo da criação do primeiro anúncio (livro).
 
@@ -724,6 +731,8 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 | Quantos | 30 ou mais chamadas e 10 anúncios (livro); 30 ganchos para 10 miolos, gastando pouco em cada variação (curso) |
 | Por quanto tempo | O que for preciso, porque é habilidade que se aprende errando |
 
+Quando, Quanto e Quantos são os valores do autor. (adaptação desta skill) Dimensione pela verba, pela equipe e pela capacidade de atender, com data de revisão e sinais de parada.
+
 ---
 
 ## Checklist
@@ -736,11 +745,11 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 - [ ] O pedido (isca ou oferta principal) é um só e vem depois de valor.
 - [ ] A proporção de dar para pedir é alta, e eu escolhi entre pedido integrado e intermitente.
 - [ ] Defini a cadência por plataforma e a estou cumprindo antes de interpretar resultado.
-- [ ] Uma vez por mês meço tamanho e velocidade e comparo comigo mesmo.
+- [ ] Uma vez por mês meço tamanho e velocidade e comparo comigo mesmo, e acompanho também os leads engajados, a qualidade e as vendas que o conteúdo trouxe.
 - [ ] As peças que geram conversa viram anúncio e entram na lista de peças para o time de vendas.
 
 **Anúncio**
-- [ ] Sei meu lucro bruto por cliente, meu LTGP e meu CAC aceitável (mínimo 3 para 1).
+- [ ] Sei meu lucro bruto por cliente, meu CAC aceitável e a contribuição que o cliente deixa (em assinatura, observada por coorte e horizonte). A razão 3 para 1 é só a referência do autor.
 - [ ] Já fiz os outros métodos para ter caixa, dados e prática.
 - [ ] A plataforma é uma que eu uso como consumidor, e eu desmontei cerca de 50 anúncios dela.
 - [ ] A segmentação usa lista de clientes como semente e poucos filtros.
@@ -748,6 +757,6 @@ Siglas usadas aqui: CAC é o custo de adquirir um cliente. LTGP é o lucro bruto
 - [ ] A página de captura repete as palavras, as cores e o rosto do anúncio e tem poucos campos.
 - [ ] O rastreamento está montado antes de gastar.
 - [ ] Defini orçamento de teste, regra de desligar e conta de escala de trás para a frente.
-- [ ] Tenho 30 ganchos e 10 miolos em produção, e uma regra de teste semanal.
+- [ ] Tenho ganchos e miolos em produção no ritmo que a equipe aguenta (o autor usa 30 e 10), e uma revisão semanal dos testes, com decisão só quando há amostra suficiente.
 - [ ] Fiz a conta do caixa dos primeiros 30 dias e, se necessário, desenhei o upsell que paga o CAC.
 - [ ] Antes de culpar o anúncio, verifiquei se o problema é a venda ou o modelo.

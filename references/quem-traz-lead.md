@@ -2,7 +2,7 @@
 
 Abra este arquivo quando a pergunta for como fazer outras pessoas (clientes, funcionários, agências, afiliados ou parceiros) trazerem lead no seu lugar. Os valores em dinheiro do material estão em dólares (US$) e vêm de negócios norte-americanos. Conceitos de base (lead engajado, equação de valor, LTGP e CAC, mais, melhor, novo) estão em [fundamentos.md](fundamentos.md). Os métodos que você mesmo executa estão em [contato-um-a-um.md](contato-um-a-um.md) (contato quente e frio) e [um-para-muitos.md](um-para-muitos.md) (conteúdo e anúncio pago).
 
-Siglas usadas aqui: LTGP é o lucro bruto que um cliente deixa ao longo da vida (lifetime gross profit). CAC é o custo para adquirir um cliente (customer acquisition cost). Meta mínima de referência do material: LTGP pelo menos 3 vezes o CAC (3:1).
+Siglas usadas aqui: LTGP é o lucro bruto que um cliente deixa ao longo da vida (lifetime gross profit). CAC é o custo para adquirir um cliente (customer acquisition cost). Referência do autor: LTGP pelo menos 3 vezes o CAC (3:1). É referência contextual, não garantia de viabilidade: depende de margem, ciclo de venda e retenção observada (adaptação desta skill). Trechos marcados "(adaptação desta skill)" são acréscimos ou correções desta skill, não do autor.
 
 ---
 
@@ -18,7 +18,7 @@ Alavancagem é quanto resultado sai por unidade do seu tempo, e não rapidez. Pa
 
 | Cenário | O que acontece | Trabalho seu | Leads |
 |---|---|---|---|
-| 1. Você capta | Você faz tudo, todo dia (regra dos 100) | Alto | Baixos |
+| 1. Você capta | Você faz tudo, todo dia (regra dos 100, heurística do autor) | Alto | Baixos |
 | 2. Um captador | Você treina uma pessoa que capta por você | Menor | Os mesmos ou um pouco mais |
 | 3. Vários captadores | Você soma um captador novo de tempos em tempos | Médio | Bem mais |
 | 4. Captador que recruta captadores | Recrutador traz ligadores, time de conteúdo, time de mídia | Baixo | Muitos |
@@ -36,7 +36,7 @@ Alavancagem é quanto resultado sai por unidade do seu tempo, e não rapidez. Pa
 
 (síntese minha a partir de livro; curso, Recap)
 
-**Ordem de adoção: as fontes divergem em como ler.** O livro, na conclusão dos captadores, diz que a ordem natural é indicação antes de equipe grande, depois agência, e só quando você domina gerir gente dentro vem gerir gente fora (afiliados). (livro) Na seção de afiliados, ele repete a ordem indicação, funcionários, agências, afiliados. (livro) Já nos sete níveis do anunciante, funcionários aparecem no nível 3 e indicações consistentes (meta de 25% ou mais dos clientes) no nível 4. (livro; curso, The Roadmap) Leitura para uso: pedir indicação cabe desde o começo, porque custa pouco; contratar entra quando sua capacidade pessoal acaba; agência entra quando há dinheiro e algo novo para aprender; afiliado entra por último. Isso é síntese minha, não frase do material.
+**Ordem de adoção: as fontes divergem em como ler.** O livro, na conclusão dos captadores, diz que a ordem natural é indicação antes de equipe grande, depois agência, e só quando você domina gerir gente dentro vem gerir gente fora (afiliados). (livro) Na seção de afiliados, ele repete a ordem indicação, funcionários, agências, afiliados. (livro) Já nos sete níveis do anunciante, funcionários aparecem no nível 3 e indicações consistentes (meta de 25% ou mais dos clientes novos) no nível 4. (livro; curso, The Roadmap) Leitura para uso: pedir indicação cabe desde o começo, porque custa pouco; contratar entra quando sua capacidade pessoal acaba; agência entra quando há dinheiro e algo novo para aprender; afiliado entra por último. Isso é síntese minha, não frase do material.
 
 **Exemplo (ilustração minha).** Uma nutricionista que faz tudo sozinha: no cenário 1 ela posta e responde mensagens. No 2, treina uma assistente para responder e agendar. No 3, soma uma segunda pessoa para conteúdo. No 4, contrata alguém que recruta e treina essas pessoas.
 
@@ -62,9 +62,15 @@ Alavancagem é quanto resultado sai por unidade do seu tempo, e não rapidez. Pa
 
 - Indicados valem mais (compram mais, mais rápido, e tendem a pagar à vista) e custam menos (o cliente que um cliente manda sai quase de graça). (livro; curso, Referral Playbook)
 - Eles se multiplicam em cadeia: um traz dois, dois trazem quatro. O livro chama isso de crescimento exponencial; o curso diz "quadrático, não linear". Os dois querem dizer que cresce mais que o esforço, ao contrário de contato, conteúdo e anúncio. (livro; curso, Referral Playbook)
-- **Conta que decide tudo.** Meça a taxa mensal de clientes que indicam e a taxa mensal de clientes que saem (churn). Indicação acima do churn: o negócio cresce sem publicidade, na diferença entre as duas taxas (10% indicam e 5% saem dá 5% de crescimento ao mês). Igual: estagna e precisa de outro canal. Abaixo: você anuncia só para ficar no mesmo lugar, a "roda de hamster" do autor. (curso, Referral Playbook; livro)
-- Efeito no custo (livro): com LTGP:CAC de 4:1, adquirir um cliente consome 25% do lucro vitalício de um cliente. Se cada cliente trouxer dois novos, a razão vai a 12:1 e a aquisição consome pouco mais de 8%. (livro)
-- **Meta de referência.** Pelo menos 25% dos clientes novos vindos de indicação (nível 4 dos sete níveis). O livro acrescenta que, na "máquina de US$ 100 milhões", um terço dos clientes traz outros. O material não dá um número de taxa "saudável" além desses dois. (livro; curso, The Roadmap)
+- **Conta que decide tudo, na versão do autor.** Meça a taxa mensal de clientes que indicam e a taxa mensal de clientes que saem (churn). Indicação acima do churn: o negócio cresce sem publicidade, na diferença entre as duas taxas (10% indicam e 5% saem dá 5% de crescimento ao mês). Igual: estagna e precisa de outro canal. Abaixo: você anuncia só para ficar no mesmo lugar, a "roda de hamster" do autor. (curso, Referral Playbook; livro) **Essa conta não se sustenta** (adaptação desta skill): a porcentagem de clientes que indicam não é a porcentagem de clientes novos, porque faltam a média de indicados por indicador e a conversão dos indicados, e comparar direto a % que indica com a % que cancela mistura grandezas diferentes. A conta correta está abaixo.
+- **A conta da indicação (adaptação desta skill).** Na mesma janela de tempo:
+  - novos clientes por indicação = clientes da base inicial × proporção que indica × média de indicados por indicador × conversão dos indicados;
+  - base final = base inicial + novos clientes únicos de todos os canais + reativações − clientes perdidos, sem contar a mesma pessoa em dois canais.
+  - Exemplo hipotético: base de 100 clientes, 10% indicam, cada um indica 1 pessoa, 20% dos indicados compram. 100 × 10% × 1 × 20% = 2 novos clientes. Com 5 cancelamentos e nenhum outro movimento, a base final é 100 + 2 − 5 = 97. O percentual que indica (10%) não é o percentual de aquisição (2%).
+  - Leitura, que preserva a ideia do autor: base final acima da inicial, o negócio cresceu; igual, estagnou; abaixo, ele adquire só para repor perdas (a "roda de hamster").
+  - Prefira contar as aquisições efetivas no CRM. A fórmula é projeção com hipóteses declaradas (proporção que indica, indicados por indicador, conversão), nunca fato. A janela precisa ser compatível com o ciclo de venda: uma indicação deste mês pode converter só depois, e então entra na janela em que o pagamento for confirmado.
+- Efeito no custo (livro): com LTGP:CAC de 4:1, adquirir um cliente consome 25% do lucro vitalício de um cliente. Se cada cliente trouxer dois novos, a razão vai a 12:1 e a aquisição consome pouco mais de 8%. (livro) A conta supõe que os dois indicados compram e que a indicação não tem custo; na prática há conversão menor que 100% e o benefício de quem indica (adaptação desta skill).
+- **Meta de referência.** Pelo menos 25% dos clientes novos vindos de indicação (nível 4 dos sete níveis). O livro acrescenta que, na "máquina de US$ 100 milhões", um terço dos clientes traz outros. O material não dá um número de taxa "saudável" além desses dois. Os 25% são a fatia da indicação entre os clientes novos, não a proporção da base que indica. Ambos são referências do autor, não garantia. (livro; curso, The Roadmap)
 - Casos citados: Dropbox deu armazenamento a quem indicava e ao indicado e, segundo o material, multiplicou o negócio por 39 em 15 meses. PayPal deu US$ 10 de crédito a cada lado, chegou a 1 milhão de usuários em 2 anos e a 100 milhões em 6. (livro; curso, Referral Playbook)
 - **Versões diferentes da mesma história (Gym Launch, empresa do autor).** No livro, os anúncios ficaram bloqueados por duas semanas sem ele perceber e a empresa seguiu faturando cerca de US$ 500 mil por semana só por boca a boca. (livro) No curso, a esposa notou vendas fracas, ele achou os anúncios desligados há duas semanas, e as vendas semanais caíram de 21 para 15; ele conclui que havia muito boca a boca, não que tudo vinha dele. (curso, Referral Playbook) As duas dizem que o boca a boca sustentava boa parte da venda; só o curso traz a queda de 21 para 15, e só o livro traz o valor semanal.
 
@@ -106,7 +112,7 @@ Duas causas de não haver indicação: o produto não é tão bom quanto o dono 
 **Regras e números.**
 - Combine o prêmio com o que você vende (camiseta grátis atrai quem quer camiseta; para empresa de TI, não). Prêmio sem relação atrai gente que não compra. (livro; curso, Referral Playbook)
 - Exemplo do livro: produto de US$ 500 com CAC de US$ 200; US$ 100 em dinheiro ao indicador e US$ 100 de desconto ao amigo, até três amigos. (livro)
-- Pedir já na inscrição deu 25 a 30% a mais de cadastros no serviço do autor (100 clientes viram 125 a 130) segundo o livro. O curso conta o mesmo número de outro modo: 25 a 30% dos cadastros vinham de indicação. Como a razão LTGP:CAC dele passava de 3:1, isso pagava o custo de todos os clientes, o que ele chama de rodar o anúncio de graça. Em promoção, o curso diz que chegou a 25% dos clientes por indicação, com gente trazendo 5 amigos. (livro; curso, Referral Playbook)
+- Pedir já na inscrição deu 25 a 30% a mais de cadastros no serviço do autor (100 clientes viram 125 a 130) segundo o livro. O curso conta o mesmo número de outro modo: 25 a 30% dos cadastros vinham de indicação. Como a razão LTGP:CAC dele passava de 3:1, isso pagava o custo de todos os clientes, o que ele chama de rodar o anúncio de graça (caso dele, não promessa). Em promoção, o curso diz que chegou a 25% dos clientes por indicação, com gente trazendo 5 amigos. (livro; curso, Referral Playbook)
 - A indicação é concentrada: no curso, 1 em cada 10 clientes traz 10, e você não sabe quem é, então todos recebem o mesmo tratamento. (curso, Referral Playbook)
 - Outros casos: um vendedor de ingressos de evento, depois da venda, só perguntava se o cliente queria levar mais alguém, e vendia 2,5 vezes mais que o segundo colocado (curso). Um amigo do autor teve 33% a mais de inscrições só mudando a linguagem para convidar a fazer junto: de 1 milhão de compradores, 250 mil disseram ter sido indicados, sem atribuição direta confirmada. (livro; curso, Referral Playbook)
 
@@ -128,17 +134,20 @@ Duas causas de não haver indicação: o produto não é tão bom quanto o dono 
 
 **Erro comum.** Aceitar nome e telefone e mandar mensagem fria depois. (curso, First 5 Clients Framework)
 
+**Respeito ao indicado (adaptação desta skill).** O indicado decide se segue: quem recusa ou pede para parar não recebe nova tentativa da mesma oferta, e o contato de um terceiro só é usado com o conhecimento do indicador e do indicado, que é o que a apresentação a três já garante. A abertura continua dizendo quem você é e por que fala com a pessoa.
+
 ### Métricas da indicação
 
-- % de clientes que indicam por mês e % de churn por mês (a diferença decide o crescimento). (curso, Referral Playbook)
-- % de clientes novos vindos de indicação (meta: 25% ou mais). (livro)
+- Proporção da base que indica, média de indicados por indicador e conversão dos indicados (indicados que viraram clientes ÷ indicados recebidos, mesma coorte e janela). O curso pede a % que indica e o churn; a versão corrigida está em "Por que vale e a conta de crescimento". (curso, Referral Playbook; adaptação desta skill)
+- Clientes novos por indicação, contados no CRM, e % dos clientes novos vindos de indicação (meta do autor: 25% ou mais). (livro)
+- Clientes novos de todos os canais, reativações, cancelamentos e base final, na mesma janela, sem contar a mesma pessoa duas vezes. (adaptação desta skill; ver [metricas-experimentos.md](./metricas-experimentos.md))
 - Cadastros por pedido na inscrição (o ganho de 25 a 30% do exemplo). (livro)
 - Custo por indicado versus CAC de mídia, para ajustar o benefício. (curso, Referral Playbook)
 
 **Exemplo (ilustração minha).** Um estúdio de pilates faz o pedido na matrícula: "quem mais da sua turma de trabalho faria aula com você?", e oferece à dupla um mês com desconto para cada um. Ao fim do mês, sorteia uma sessão premium para quem tiver trazido alguém e deixado depoimento.
 
 **Perguntas para gerar ideias**
-1. Qual é a taxa de indicação do meu negócio hoje, e qual é o churn? Qual das duas está maior?
+1. Na mesma janela, quantos clientes novos vieram de indicação (pelo CRM), quantos vieram de outros canais e quantos saíram? A base final cresceu, ficou igual ou caiu?
 2. O que meus clientes mais satisfeitos têm em comum, e posso vender só para esse perfil?
 3. Qual vitória rápida o cliente pode ter nos primeiros 2 dias e nos primeiros 28?
 4. Em que momento da compra eu posso pedir "quem mais faria isso com você?" (cadastro, pagamento, primeira entrega)?
@@ -146,6 +155,7 @@ Duas causas de não haver indicação: o produto não é tão bom quanto o dono 
 6. Que evento de 1 a 4 semanas (desafio em dupla, traga um amigo) cabe na minha agenda de conteúdo?
 7. Que presente eu poderia entregar ao cliente para ele repassar a um amigo e ganhar status?
 8. Qual é o próximo produto que quem já gostou do primeiro quer comprar?
+9. Que proporção dos meus clientes indica, quantos indicados cada um traz e quantos desses indicados compram?
 
 ---
 
@@ -204,7 +214,7 @@ A cota de leads abaixo da capacidade, a meta absoluta por pessoa e a regra de o 
 - **Exemplo do material, com divergência.** Folha que gera 1.000 leads engajados a US$ 100 cada; 1 em 10 vira cliente, então CAC de US$ 1.000. O livro diz LTGP de US$ 4.000, o que dá 4:1. O curso diz LTGP de US$ 40.000 e chega ao mesmo "4 para 1", o que não fecha (daria 40:1); a conta só bate com US$ 4.000, e o curso provavelmente errou o número [?]. (livro; curso, Employees)
 - **Equipe de conteúdo do autor.** O livro diz cerca de US$ 100 mil por mês para cerca de 30 mil leads engajados por mês, sem anúncio nem contato frio (cerca de US$ 3,33 por lead). O curso repete os 30 mil leads e os US$ 3,33, mas cita uma folha de US$ 150 mil, o que daria cerca de US$ 5; o valor de 150 mil pode ser só a parte de mídia [?]. (livro; curso, Employees)
 - **Diagnóstico quando o CAC pesa.** O livro e o curso repetem aqui o diagnóstico de anúncio, venda ou modelo (comparar com o CAC médio do setor, depois perguntar se o lead tem o problema e o dinheiro). Ele está inteiro em [fundamentos.md](fundamentos.md), seção 3. A consequência para a equipe: não demita quem faz anúncio quando o problema é venda, nem o inverso. (livro; curso, Employees)
-- **Teto de custo.** Somados, todos os custos de adquirir um cliente devem ficar em até um terço do lucro vitalício dele. (livro)
+- **Teto de custo.** Somados, todos os custos de adquirir um cliente devem ficar em até um terço do lucro vitalício dele. (livro) É a referência do autor (3:1), não garantia; ajuste à margem e à retenção observadas (adaptação desta skill).
 
 **Erros comuns.** Achar que ninguém substitui o dono. Competir com o funcionário. Contratar caro demais para tarefa de base. Contratar sem calcular o retorno. Manter quem não rende. Treinar como se a falha fosse da pessoa. (livro; curso, Employees)
 
@@ -302,7 +312,7 @@ O autor avisa que a lista não é definitiva. Fale com 5 a 10 agências antes de
 **Passo 3. Qualificar.** Faça o afiliado investir tempo, dinheiro e no próprio produto, para chegar a uma primeira vitória rápida. Dois caminhos: tornar o afiliado cliente (ele compra e usa o produto para manter o status; em produto físico, pacotes maiores de entrada) ou tornar o afiliado especialista (onboarding ou certificação paga, de 10 minutos a uma semana, conforme a complexidade, para não diluir a marca nem prometer o que você não entrega). Quem não comprou o produto provavelmente não deve vendê-lo. (livro; curso, Affiliate Playbook)
 - **Divergência sobre o preço.** O livro dá um número: cobrar de 10 a 20% do que o afiliado ativo médio ganha nos primeiros 12 meses (se ganha US$ 40 mil por ano, cobrar US$ 4 mil a 8 mil); muito baixo não compromete, muito alto falta afiliado; se o preço não atrai, baixe o compromisso, se não gera ação, suba, e na falta de produto físico suba o investimento mínimo a cada 5 inscrições. (livro) O curso diz que o preço serve de limiar de ativação, não de lucro, e por isso não deve ser alto, e não dá valor de referência. (curso, Affiliate Playbook)
 
-**Passo 4. Definir o pagamento.** Primeiro defina pelo que paga (clientes novos e recompras; com métricas melhores, passos anteriores como isca baixada ou reunião marcada). Depois defina quanto pelo CAC máximo permitido, que é cerca de um terço do lucro bruto, pela razão 3:1. Estrutura de três níveis:
+**Passo 4. Definir o pagamento.** Primeiro defina pelo que paga (clientes novos e recompras; com métricas melhores, passos anteriores como isca baixada ou reunião marcada). Depois defina quanto pelo CAC máximo permitido, que é cerca de um terço do lucro bruto, pela razão 3:1, referência do autor que se ajusta ao seu negócio. Estrutura de três níveis:
 
 | Nível | Quanto do CAC máximo | Quando |
 |---|---|---|
@@ -341,7 +351,7 @@ O autor avisa que a lista não é definitiva. Fale com 5 a 10 agências antes de
 
 **Super afiliados (livro).** Três níveis: super afiliados trazem agências, que trazem negócios locais, que trazem consumidores. Exemplo: um super afiliado com 10 agências por mês, cerca de 50 negócios locais, cerca de 2.500 leads por mês a cerca de US$ 5 por lead, somando US$ 12.500 a mais a cada mês. Com poucos super afiliados chegaram a US$ 1,7 milhão por mês em 6 meses. (livro)
 
-**Retorno de afiliados.** O custo para conseguir o afiliado é o CAC; o LTGP é o lucro bruto de todos os clientes que ele traz, menos o que você paga a ele. Exemplo: CAC de US$ 4.000 por afiliado; ele vende US$ 10.000 por mês por 12 meses (US$ 120.000); margem bruta de 75% dá US$ 90.000 de lucro bruto; comissão de 40% do lucro bruto (US$ 36.000) deixa US$ 54.000; razão LTGP:CAC de 13,5:1. Meta de pelo menos 3:1, melhor 5:1 ou 10:1. Abaixo de 3: baixar o custo do afiliado (anúncio, oferta, venda), ativar mais afiliados com o processo de lançamento e os níveis, ou subir o LTGP melhorando a integração. (livro; curso, Affiliate Playbook) **Divergência:** o livro diz "12.51" e o curso diz "12 e meio para 1", mas a conta dá 13,5. Use o resultado da conta [?]. Ativar afiliados melhora os dois lados da razão.
+**Retorno de afiliados.** O custo para conseguir o afiliado é o CAC; o LTGP é o lucro bruto de todos os clientes que ele traz, menos o que você paga a ele. Exemplo: CAC de US$ 4.000 por afiliado; ele vende US$ 10.000 por mês por 12 meses (US$ 120.000); margem bruta de 75% dá US$ 90.000 de lucro bruto; comissão de 40% do lucro bruto (US$ 36.000) deixa US$ 54.000; razão LTGP:CAC de 13,5:1. Meta do autor de pelo menos 3:1, melhor 5:1 ou 10:1, como referência contextual e não garantia. Abaixo de 3: baixar o custo do afiliado (anúncio, oferta, venda), ativar mais afiliados com o processo de lançamento e os níveis, ou subir o LTGP melhorando a integração. (livro; curso, Affiliate Playbook) **Divergência:** o livro diz "12.51" e o curso diz "12 e meio para 1", mas a conta dá 13,5. Use o resultado da conta [?]. Ativar afiliados melhora os dois lados da razão.
 
 **Resultados citados pelo autor (versões diferentes).**
 - Total: o livro diz que a Prestige Labs e outra empresa somaram mais de US$ 75 milhões em receita com mais de 5.000 afiliados; o curso diz mais de US$ 50 a 75 milhões em vendas via afiliados. (livro; curso, Affiliate Playbook)
@@ -349,7 +359,7 @@ O autor avisa que a lista não é definitiva. Fale com 5 a 10 agências antes de
 
 **Como começar.** Anuncie a oferta de afiliado (com os quatro métodos) até ter de 10 a 20 afiliados. Use os resultados e o retorno deles para ajustar oferta, termos, lançamentos e integração. Depois escale, transformando o que os afiliados fizeram nas primeiras iscas para o lote seguinte. O autor espera levar de 3 a 6 meses para achar uma nova fonte de leads, mesmo com experiência. (livro; curso, Affiliate Playbook)
 
-**Métricas.** Afiliados ativos por mês; % deles em cada nível; vendas por afiliado; CAC do afiliado; LTGP:CAC do programa (meta 3:1 ou mais); pagamento médio por venda contra o CAC máximo. (livro)
+**Métricas.** Afiliados ativos por mês; % deles em cada nível; vendas por afiliado; CAC do afiliado; LTGP:CAC do programa (referência do autor: 3:1 ou mais); pagamento médio por venda contra o CAC máximo. (livro)
 
 **Erros comuns.** Achar que afiliado é só entregar um link. Dar o CAC inteiro a todo mundo. Deixar vender quem não conhece o produto. Recrutar sem tirar trabalho do afiliado. Escalar antes de acertar os termos. Achar que uma venda ao afiliado basta. Desistir após um lançamento fraco. Não deixar o material pronto para ele colar. (livro; curso, Affiliate Playbook)
 
@@ -370,8 +380,8 @@ O autor avisa que a lista não é definitiva. Fale com 5 a 10 agências antes de
 ## Checklist
 
 - Já domino pelo menos um método sozinho e esgotei mais, melhor, novo nele? (senão, volte a [fundamentos.md](fundamentos.md))
-- Meu LTGP é pelo menos 3 vezes o CAC, e sei calcular os dois para cada captador?
-- Medi a taxa mensal de indicação e o churn? Qual é maior?
+- Sei calcular o LTGP e o CAC de cada captador, com todos os custos contados, e comparei com a referência do autor de 3:1 sem tratá-la como garantia?
+- Contei, na mesma janela, clientes novos por indicação (no CRM), clientes novos dos outros canais, reativações e perdidos, sem repetir a mesma pessoa? A base final cresceu? Sei a proporção que indica, os indicados por indicador e a conversão deles?
 - O produto entrega o bastante para gerar boa vontade: clientes certos, promessa que dá para superar, vitórias rápidas nos primeiros 28 dias, melhoria contínua, próxima compra clara?
 - Pedi indicação na compra, com "quem" e não "se", e com apresentação a três?
 - Escolhi pelo menos uma das sete formas de pedir e casei o benefício com o que eu vendo?
