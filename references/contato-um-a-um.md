@@ -2,7 +2,7 @@
 
 Abra este arquivo quando a ideia de captação for falar com pessoas uma a uma (mensagem, ligação, e-mail, DM, carta, visita): para conseguir os primeiros clientes de uma oferta nova, reativar uma base, ou montar uma máquina de prospecção de estranhos.
 
-Convenções: "livro" é o $100M Leads, "curso" são as aulas do curso gratuito $100M Leads Course, do mesmo autor. Valores em dólar e taxas são afirmações do próprio autor, em mercado americano, sem checagem independente. Exemplos marcados como "ilustração" foram escritos para este arquivo e não vêm das fontes. Quando as duas fontes divergem, a seção traz uma das versões e remete ao item correspondente de "Onde as fontes divergem", no fim.
+Convenções: "livro" é o $100M Leads, "curso" são as aulas do curso gratuito $100M Leads Course, do mesmo autor. Valores em dólar e taxas são afirmações do próprio autor, em mercado americano, sem checagem independente. Exemplos marcados como "ilustração" foram escritos para este arquivo e não vêm das fontes. Quando as duas fontes divergem, a seção traz uma das versões e remete ao item correspondente de "Onde as fontes divergem", no fim. O que está marcado como "(adaptação desta skill)" é acréscimo ou correção desta skill, não do autor.
 
 Assuntos que moram em outros arquivos:
 - Lead engajado, Core Four, equação de valor, as 11 provas de probabilidade percebida, isca digital (lead magnet), regra dos 100, aberto até a meta, mais/melhor/novo, diagnóstico de anúncio, venda ou modelo (seção 3): [fundamentos.md](./fundamentos.md).
@@ -11,13 +11,15 @@ Assuntos que moram em outros arquivos:
 
 ## Qual método para qual situação
 
-| Método | Público | Quando faz mais sentido | O que custa | Número de referência |
+| Método | Público | Quando faz mais sentido | O que custa | Número de referência (do autor) |
 |---|---|---|---|---|
 | Contato quente (warm outreach) | Quem já conhece você | Primeira venda, lançamento, base parada | Tempo, cerca de 4 horas por dia no começo | 100 contatos por dia |
 | Primeiros 5 clientes (First 5 Clients) | Quem respondeu no contato quente | Oferta nova ou ainda não testada | Seu trabalho de graça e sua atenção | 5 vagas grátis, depois preço em degraus |
 | Contato frio (cold outreach) | Estranhos | Depois do quente; quando se quer fluxo previsível e sem depender de rosto ou anúncio | Lista, volume e, em escala, gente | 100 contatos por dia por pelo menos 100 dias |
 
 (livro; curso, First 5 Clients Framework; curso, Cold Outreach Playbook)
+
+Os números da última coluna são heurísticas do autor para manter constância, não exigência universal. O volume real se dimensiona pela lista, pela personalização, pela equipe, pelo custo, pelo tempo de resposta e pela capacidade de atender (adaptação desta skill; detalhe na seção 3.6).
 
 ---
 
@@ -31,7 +33,7 @@ Assuntos que moram em outros arquivos:
 1. Montar a lista. Contatos do celular, de todas as contas de e-mail que você já usou, seguidores e conexões de todas as redes. Jogar tudo numa planilha e contar. O curso diz que a maioria das pessoas já se comunicou com 1.000 a 3.000 pessoas na vida; o livro diz que, para muita gente, isso já são os primeiros 1.000 leads (curso, First 5 Clients Framework; livro).
 2. Escolher a plataforma em que você tem mais contatos. Quem aparece em dois canais conta quase como dois leads, e cada pessoa tem um canal preferido (o autor responde mais a texto do que a ligação) (curso, First 5 Clients Framework).
 3. Personalizar a abertura. O livro manda usar o que você já sabe da pessoa e, se souber pouco, olhar o perfil dela. O curso quantifica: cerca de 30 segundos olhando a vida da pessoa e perguntando algo novo. Nesta etapa você não pede nada, só dá atenção (livro; curso, First 5 Clients Framework).
-4. Contatar 100 pessoas por dia, até 3 vezes cada, em dias, horários ou canais diferentes (divergência no item 3 de "Onde as fontes divergem"). Por e-mail ou voicemail, a abertura personalizada (2 a 3 frases) e a oferta vão juntas na mesma mensagem (livro).
+4. Contatar em lotes diários, até 3 vezes cada pessoa, em dias, horários ou canais diferentes (divergência no item 3 de "Onde as fontes divergem"). A referência do autor é 100 pessoas por dia; dimensione o lote pelo que você consegue personalizar e responder (adaptação desta skill). Pare de insistir com quem recusar ou pedir para parar. Por e-mail ou recado de voz, a abertura personalizada (2 a 3 frases) e a oferta vão juntas na mesma mensagem, e a mensagem diz quem você é (livro).
 5. Quando alguém responder, conduzir a conversa com a estrutura ACA (subseção abaixo).
 6. Depois de 3 a 4 trocas de mensagem (ou 3 a 4 minutos, se for presencial), fazer uma oferta para medir interesse. A oferta é a mensagem de teste descrita abaixo.
 7. Tornar o sim fácil: a oferta inicial é grátis (ver seção 2).
@@ -46,12 +48,12 @@ Assuntos que moram em outros arquivos:
 - Funil de referência: cerca de 20% respondem; desses, cerca de 20% aceitam a oferta grátis; poucos viram pagantes (divergência no item 2).
 - Conta do autor: se 1% da lista compra uma oferta de US$ 400, 500 contatos por semana dão 5 clientes por semana. A projeção anual de US$ 104.000 é recálculo sobre 2.000 por semana x 52, porque o número não aparece completo (livro).
 - Testar pouco não prova nada: 1% de 20 pessoas é 0,2 pessoa (curso, First 5 Clients Framework).
-- Só vale com volume. Em 10 dias de 100 contatos o autor diz aprender mais do que em tudo que já leu (livro).
+- Só vale com volume. Em 10 dias de 100 contatos o autor diz aprender mais do que em tudo que já leu (livro). É a experiência dele, não uma exigência: com lista pequena de pessoas que você conhece de verdade, o lote diário é menor, e o que conta é personalizar e responder rápido (adaptação desta skill).
 - Limites do método: o tempo do dia e o fim da lista de pessoas que conhecem você (livro).
 
-**Exemplo curto (ilustração minha).** Uma nutricionista vai lançar acompanhamento online. Ela exporta os contatos do celular e do e-mail (840 nomes), separa os de WhatsApp e manda, para 100 por dia, uma mensagem que cita algo recente da vida da pessoa e faz uma pergunta, sem pedir nada. Quem responde entra no ACA, e só depois de 3 ou 4 trocas ela conta que está abrindo cinco vagas grátis de acompanhamento.
+**Exemplo curto (ilustração minha).** Uma nutricionista vai lançar acompanhamento online. Ela exporta os contatos do celular e do e-mail (840 nomes), separa os de WhatsApp e manda, em lotes diários que ela consegue personalizar e responder, uma mensagem que cita algo recente da vida da pessoa e faz uma pergunta, sem pedir nada. Quem responde entra no ACA, e só depois de 3 ou 4 trocas ela conta que está abrindo cinco vagas grátis de acompanhamento.
 
-**Como melhorar.** O autor trata a melhoria como mais volume primeiro (abaixo de US$ 1 milhão de lucro por ano) e só depois ajuste de taxa. O método de teste está em [fundamentos.md](./fundamentos.md), seção 15. Aqui, as alavancas citadas são: personalizar mais, usar o segundo e o terceiro canal da mesma pessoa, e rodar de novo a lista periodicamente porque o momento da pessoa muda (curso, First 5 Clients Framework).
+**Como melhorar.** O autor trata a melhoria como mais volume primeiro (abaixo de US$ 1 milhão de lucro por ano) e só depois ajuste de taxa. Se aparecer problema operacional (não dá para responder a todos) ou sinal claro de baixa aderência, pare e revise antes de somar volume (adaptação desta skill). O método de teste está em [fundamentos.md](./fundamentos.md), seção 15. Aqui, as alavancas citadas são: personalizar mais, usar o segundo e o terceiro canal da mesma pessoa, e rodar de novo a lista periodicamente porque o momento da pessoa muda (curso, First 5 Clients Framework).
 
 **Erros comuns.**
 - Achar que não tem lista (livro).
@@ -117,7 +119,7 @@ Assuntos que moram em outros arquivos:
 5. Qual pergunta final do ACA conduz, a partir de uma conversa comum, até o tema da oferta?
 6. Que "esforço e sacrifício" o cliente típico mais teme neste serviço, e como a oferta deixa de exigi-lo?
 7. Quem da base antiga nunca recebeu uma mensagem de lançamento nova, e qual seria a mensagem personalizada para cada grupo?
-8. Quantas horas por dia, nas primeiras horas, a equipe consegue reservar para 100 contatos, e quem faz o quê?
+8. Quantas horas por dia, nas primeiras horas, a equipe consegue reservar para o lote diário que dá para personalizar e responder (a referência do autor é 100 contatos), e quem faz o quê?
 
 ---
 
@@ -220,7 +222,7 @@ Quando um cliente, inclusive um dos cinco grátis, disser que conhece alguém in
 
 **O que é.** Falar em privado, um a um, com estranhos sobre o que você vende, por qualquer canal que chegue a uma pessoa só: e-mail, ligação, DM, SMS, recado de voz, carta, visita. Automação não muda a natureza: e-mail para lista de 10 mil continua sendo um a um, só mais rápido. Como o primeiro contato é privado, é outbound (curso, First 5 Clients Framework; livro). O método independe de plataforma e de rosto (curso, Cold Outreach Playbook).
 
-**Quando usar.** Depois do contato quente e, no livro, também do conteúdo. A ordem do livro é quente, conteúdo, frio, anúncio. Serve para crescer mais rápido ou ter fluxo mais previsível, sem depender de rosto, conteúdo ou anúncio. Pode levar quase um ano para escalar (livro). Quem decide entre frio e outros métodos pelo critério tempo versus dinheiro encontra versões opostas nas fontes (item 6 de "Onde as fontes divergem").
+**Quando usar.** Depois do contato quente e, no livro, também do conteúdo. A ordem do livro é quente, conteúdo, frio, anúncio. Serve para crescer mais rápido ou ter fluxo mais previsível, sem depender de rosto, conteúdo ou anúncio. Pode levar quase um ano para escalar, no relato do autor (livro); é um caso dele, não um prazo garantido. Quem decide entre frio e outros métodos pelo critério tempo versus dinheiro encontra versões opostas nas fontes (item 6 de "Onde as fontes divergem").
 
 **Passo a passo.** O frio traz três problemas novos em relação ao quente, nesta ordem (livro; curso, Cold Outreach Playbook):
 
@@ -235,6 +237,7 @@ Venda cara costuma acontecer em vários passos: primeiro engajar, depois agendar
 **Regras e números gerais.**
 - O resultado é o número de pessoas alcançadas vezes a taxa de resposta. Dá para mexer nos dois lados (curso, Cold Outreach Playbook).
 - É um jogo de números: ao descobrir quantos contatos geram um engajado, basta aumentar a quantidade (livro).
+- Limites (adaptação desta skill): volume e cadência são referências do autor e valem só enquanto não houver recusa e dentro da regra do canal. Quem recusou ou pediu para parar não recebe nova tentativa da mesma oferta. A abertura sempre diz quem fala e por quê (ver 3.5). O tamanho do lote se decide na seção 3.6.
 - O curso diz que se aprende mais nas primeiras 100 ligações do que em 100 livros sobre ligação, então o roteiro não deve virar motivo para adiar o começo (curso, Cold Outreach Playbook).
 - Caso de ritmo: o vendedor contratado pelo autor montou o frio sem vender nada no primeiro mês. Depois, vendas por mês (livro):
 
@@ -249,7 +252,7 @@ Venda cara costuma acontecer em vários passos: primeiro engajar, depois agendar
 | Abril | 20 | 320 mil |
 | Maio | 30 | 480 mil |
 
-A equipe pediu duas vezes para cancelar no meio. Veteranos disseram que levaria um ano, o autor esperava 12 semanas e levou quase um ano (livro). O relato de origem não traz novembro (a lista pula de outubro para dezembro).
+A equipe pediu duas vezes para cancelar no meio. Veteranos disseram que levaria um ano, o autor esperava 12 semanas e levou quase um ano (livro). É o relato de uma empresa dele, no mercado americano, e não serve de previsão para outro negócio (adaptação desta skill). O relato de origem não traz novembro (a lista pula de outubro para dezembro).
 
 **Exemplo do material.** A concorrente do autor no mercado de software para academias chegava a cerca de US$ 10 milhões por mês só com ligação e e-mail frios, em uma empresa de cerca de 30 pessoas, e ninguém no mercado sabia. Ele só descobriu porque foi contatado por ela (livro; curso, Cold Outreach Playbook). A Gym Launch, dele, fazia cerca de metade das vendas por frio (curso, Cold Outreach Playbook).
 
@@ -274,6 +277,7 @@ A equipe pediu duas vezes para cancelar no meio. Veteranos disseram que levaria 
 - Quanto mais fácil a fonte, mais gente já abordou aquela lista. O curso dá o exemplo de um software de US$ 99 por mês com leads ilimitados, usado por muitos concorrentes (curso, Cold Outreach Playbook).
 - Lista montada à mão a partir de vários grupos tem menos gente já abordada e responde melhor, ainda mais se a pessoa já viu você dar conteúdo no grupo (curso, Cold Outreach Playbook).
 - Grupos de interesse (interest groups) concentram gente que já procura solução e é consciente do problema (problem aware). São o público frio mais quente que existe. Existe software que extrai contatos deles (livro; curso, Cold Outreach Playbook).
+- Lista raspada, comprada ou montada à mão traz contatos que talvez nunca tenham aberto a porta para você. Dado público ou comprado não é autorização para disparo: confira a regra do canal e a lei de proteção de dados antes de operar, e guarde de onde veio cada contato (adaptação desta skill).
 - Alvos de exemplo no livro: gestores de fundos com mais de US$ 1 bilhão sob gestão, donos de lojas de golfe com mais de US$ 3 milhões em vendas, influenciadores com mais de 50 mil visualizações únicas por mês (livro).
 
 **Exemplo curto (ilustração minha).** Para vender gestão de agenda a dentistas, entrar em três grupos de dentistas de uma cidade, listar quem tem consultório próprio, achar o Instagram profissional de cada um e mandar a mensagem por lá, enquanto posta uma dica útil por semana no grupo.
@@ -290,7 +294,7 @@ A equipe pediu duas vezes para cancelar no meio. Veteranos disseram que levaria 
 
 **Passo a passo.**
 1. Pesquisar um pouco de cada lead e anotar de uma a três informações que um amigo saberia sobre a pessoa ou o negócio. Fazer em lote, você, uma equipe paga ou um software.
-2. Elogiar por isso e, se possível, dizer como aquilo ajudou você.
+2. Elogiar por isso e, se possível, dizer como aquilo ajudou você, desde que tenha ajudado de verdade.
 3. Escrever a primeira frase de abertura com isso e incluí-la na ligação, no e-mail ou na DM.
 4. Passar todo roteiro e template por um verificador gratuito de nível de leitura e simplificar até o nível cair para menos de terceira série.
 (livro; curso, Cold Outreach Playbook)
@@ -300,11 +304,11 @@ A equipe pediu duas vezes para cancelar no meio. Veteranos disseram que levaria 
 - Detalhes pequenos ajudam: usar o código de área do destinatário aumenta o atendimento, saber o nome dá segundos a mais, saber algo sobre a pessoa dá mais (curso, Cold Outreach Playbook; livro).
 - O autor lê só as mensagens frias que mostram entendimento do negócio dele (curso, Cold Outreach Playbook).
 
-**Exemplo curto (ilustração minha).** "Oi, Rafael, vi que a sua padaria abriu a segunda unidade no bairro novo. Parabéns pelo ritmo."
+**Exemplo curto (ilustração minha).** "Oi, Rafael, aqui é a Ana, da Contabilize. Vi que a sua padaria abriu a segunda unidade no bairro novo. Parabéns pelo ritmo."
 
 **Como melhorar.** Escolher o dado de personalização que mais se liga à sua oferta, e medir resposta com e sem ele.
 
-**Erros comuns.** Mensagem genérica em massa quando o volume de leads não exige automação total; script "bonito" demais antes de testar (livro; curso, Cold Outreach Playbook).
+**Erros comuns.** Mensagem genérica em massa quando o volume de leads não exige automação total; script "bonito" demais antes de testar (livro; curso, Cold Outreach Playbook). Personalização inventada, ou que sugira conhecer a pessoa ou ter relação com ela quando não há (adaptação desta skill).
 
 ### 3.3 Valor grande e rápido na primeira mensagem (Big Fast Value)
 
@@ -316,12 +320,12 @@ A equipe pediu duas vezes para cancelar no meio. Veteranos disseram que levaria 
 1. Tornar a oferta tão boa que recusar pareça tolice. Se a isca não funciona, aumentar a oferta até o "não" parecer tolice.
 2. Dar de graça algo pelo qual outras empresas cobram, não algo "tão bom que você poderia cobrar". O motivo: o lead já tem uma âncora de preço e entende que aquilo vale dinheiro.
 3. Manter o roteiro curto. Ligação e chat cabem em uma ou duas páginas, e-mail raramente passa de meia página, a primeira DM pode ter duas ou três frases.
-4. Fazer as primeiras 100 conversas ou 10.000 e-mails antes de ficar ajustando.
+4. Fazer as primeiras 100 conversas ou 10.000 e-mails antes de ficar ajustando (referência do autor; com lista pequena, ajuste o número ao tamanho da lista).
 (livro; curso, Cold Outreach Playbook)
 
 **Regras e números.** O maior salto citado: trocar a oferta gratuita da ligação triplicou a resposta do outbound da empresa de academias, depois de meses de teste. O livro diz que a troca foi de uma sessão de planejamento para entregar o máximo de serviço grátis que ele podia bancar. O curso não diz qual era a nova oferta (livro; curso, Cold Outreach Playbook).
 
-**Estrutura de uma ligação fria descrita no livro.** Cada parte tem uma função (livro):
+**Estrutura de uma ligação fria descrita no livro.** Cada parte tem uma função (livro). Pela adaptação desta skill, tudo que a ligação afirma precisa ser verdade: o elogio, o cliente citado (real e com permissão), o resultado, e a "parceria" só se a proposta for de parceria de fato.
 
 | Parte | Função |
 |---|---|
@@ -331,7 +335,7 @@ A equipe pediu duas vezes para cancelar no meio. Veteranos disseram que levaria 
 | Perguntar se ela oferece algo parecido | Engajar com uma pergunta fácil |
 | Propor repetir a campanha na região dela, mostrar como fazer e marcar horário no mesmo dia | Chamada para ação concreta, com data |
 
-**Exemplo curto (ilustração minha).** "Oi, Marina, vi seu vídeo sobre treino para idosos e usei a dica da cadeira com minha mãe. Ajudamos estúdios como o seu a lotar a agenda das terças. Posso mostrar como em 15 minutos hoje?"
+**Exemplo curto (ilustração minha).** "Oi, Marina, aqui é o Caio, da Agenda Cheia. Vi seu vídeo sobre treino para idosos. Ajudamos estúdios como o seu a lotar a agenda das terças. Posso mostrar como em 15 minutos hoje?"
 
 **Como melhorar.** Trocar a oferta gratuita é a alavanca que mais moveu a taxa no relato do autor. Testar versões da isca antes de ajustar palavras.
 
@@ -354,17 +358,17 @@ Fonte da tabela: curso, Cold Outreach Playbook. A combinação ao vivo e automá
 
 1. Automatizar a entrega: gravar uma vez (nota de voz, voicemail, vídeo, e-mail ou texto de modelo) e mandar a todos.
 2. Automatizar a distribuição: discador que liga a vários números ao mesmo tempo, disparo de e-mails, textos e voicemails.
-3. Insistir em mais canais e mais vezes. Se um canal não respondeu, usar isso de motivo para o próximo ("liguei por causa do meu e-mail"). Cada pessoa responde melhor a um canal (o autor responde DM, não telefone). Insistir em sequência rápida sinaliza assunto importante e gera medo de perder algo.
-4. Terminada a lista, recomeçar do topo e, depois de várias tentativas, esperar de 3 a 6 meses e refazer o ciclo.
+3. Insistir em mais canais e mais vezes, só enquanto não houver recusa e dentro da regra de cada canal (adaptação desta skill; ver 3.5). Se um canal não respondeu, usar isso de motivo para o próximo ("liguei por causa do meu e-mail"). Cada pessoa responde melhor a um canal (o autor responde DM, não telefone). Segundo o autor, a sequência rápida sinaliza assunto importante; use só se o assunto for importante de fato, sem urgência inventada (adaptação desta skill).
+4. Terminada a lista, recomeçar do topo e, depois de várias tentativas, esperar de 3 a 6 meses e refazer o ciclo, sem quem recusou ou pediu para parar (adaptação desta skill).
 (livro; curso, Cold Outreach Playbook)
 
 **Regras e números.**
-- Automatizar costuma trocar personalização por escala. O ideal é máxima personalização com máximo volume, e a tecnologia vem permitindo isso porque dado pessoal fica mais acessível (curso, Cold Outreach Playbook).
+- Automatizar costuma trocar personalização por escala. O ideal é máxima personalização com máximo volume, e a tecnologia vem permitindo isso porque dado pessoal fica mais acessível (curso, Cold Outreach Playbook). Dado acessível não é autorização para disparo; confira a regra do canal antes (adaptação desta skill; ver 3.5).
 - O autor prefere começar por e-mail porque a maioria não responde, e então ligar (livro).
 - Reservar 10 a 20% do esforço para tecnologia nova e não testada (por exemplo, testar um discador novo em um dia da semana) (livro).
 - Por que recomeçar: a pessoa pode não ter visto, o momento pode ter sido ruim, a circunstância pode ter mudado (livro e curso).
-- Quem pede para não ser contatado sai da lista. É mais eficiente converter neutros que contrariados, e a reputação acompanha você (livro; curso, Cold Outreach Playbook).
-- Quem é novo num time deve copiar o melhor vendedor ao pé da letra, com o dobro do volume dele (se ele faz 200 ligações, fazer 400), e só inovar depois de superar o número dele. O volume compensa falta de habilidade e dobra a velocidade de aprendizado (curso, Cold Outreach Playbook; livro).
+- Quem pede para não ser contatado sai da lista. É mais eficiente converter neutros que contrariados, e a reputação acompanha você (livro; curso, Cold Outreach Playbook). Pela adaptação desta skill, isso vale para a mesma oferta em todos os canais: quem recusou ou pediu para parar não recebe nova tentativa, e o pedido fica registrado.
+- Quem é novo num time deve copiar o melhor vendedor ao pé da letra, com o dobro do volume dele (se ele faz 200 ligações, fazer 400), e só inovar depois de superar o número dele. O volume compensa falta de habilidade e dobra a velocidade de aprendizado (curso, Cold Outreach Playbook; livro). É heurística do autor, sujeita à capacidade do time e à regra do canal (adaptação desta skill).
 - Cadência de contatos por lead: divergência no item 3.
 
 **Exemplo do material.** Gary Halbert aparece no curso como lógica de que o formato mais manual rende mais resposta: para vender dados ou software a gestores de fundos nos EUA (poucos milhares de pessoas, conta de alto valor), carta à mão e até presente. Para vender produto de emagrecimento a milhões de mulheres, mais automação (curso, Cold Outreach Playbook).
@@ -373,27 +377,46 @@ Fonte da tabela: curso, Cold Outreach Playbook. A combinação ao vivo e automá
 
 **Como melhorar.** Dobrar o volume antes de mexer no roteiro; testar uma ferramenta nova com parte pequena do esforço; usar o canal que a pessoa responde.
 
-**Erros comuns.** Automatizar demais uma lista pequena e queimar leads caros; ligar uma vez sem deixar recado e concluir que não funciona; continuar com quem pediu para parar; mudar o script antes de bater o volume; achar que 100% veem cada mensagem (livro; curso, Cold Outreach Playbook).
+**Erros comuns.** Automatizar demais uma lista pequena e queimar leads caros; ligar uma vez sem deixar recado (com nome, empresa e motivo) e concluir que não funciona; continuar com quem pediu para parar; insistir sem conferir a regra do canal; mudar o script antes de bater o volume; achar que 100% veem cada mensagem (livro; curso, Cold Outreach Playbook).
 
-### 3.5 Recado de voz que cita um terceiro (Third-Party Voicemail)
+### 3.5 Abordagem transparente e acompanhamento verdadeiro (no lugar do recado de voz com terceiro)
 
-**O que é.** Recado de voz curto que cita alguém conhecido do destinatário (cliente ou concorrente dele) e provoca retorno por curiosidade, transformando o frio em contato de entrada. Só aparece no curso.
+**O que mudou.** O curso (Cold Outreach Playbook) ensina um recado de voz que não diz de qual empresa é quem liga e cita alguém que o destinatário conhece, para provocar retorno por curiosidade. Esta skill não recomenda essa técnica nem variação dela, em canal nenhum: mensagem, e-mail ou DM que esconda o remetente, ou que use o nome de um cliente, concorrente ou conhecido para sugerir indicação, parceria ou relação que não existe. A pessoa erra sobre quem fala e por quê, e o retorno que vem assim é de gente enganada (adaptação desta skill).
 
-**Quando usar.** Quando se sabe quem é cliente, concorrente ou vizinho do alvo (curso, Cold Outreach Playbook).
+**O que é.** Um primeiro contato e um acompanhamento em que a pessoa sabe, nos primeiros segundos, quem fala, de qual empresa e por quê. A personalização e a relevância continuam, e é nelas que está a taxa de resposta. Do curso se mantém o que não depende do truque: recado curto, retorno fácil de dar e acompanhamento sempre (curso, Cold Outreach Playbook).
 
-**Passo a passo.**
-1. Chamar a pessoa pelo nome, sem dizer de qual empresa você é.
-2. Dizer que liga em referência a uma terceira empresa ou pessoa que ela conhece.
-3. Pedir que retorne e deixar o número.
-(curso, Cold Outreach Playbook)
+**Quando usar.** Em todo primeiro contato e em todo acompanhamento do contato frio, por ligação, recado de voz, e-mail, DM ou carta.
 
-**Regras e números.** Não se apresentar com nome e empresa no começo. Não pausar de modo que a pessoa tente lembrar de onde conhece você. Acompanhar sempre. O curso diz que o recado gera muitos retornos. A estrutura funciona porque é curta, soa como alguém com informação e abre um ciclo de curiosidade que a pessoa quer fechar. Exemplos do curso: uma marca esportiva com a concorrente como terceira, e uma academia com a academia da frente (curso, Cold Outreach Playbook).
+**Passo a passo (adaptação desta skill).**
+1. Apresentar-se logo: nome e empresa.
+2. Dizer o motivo real do contato, em uma frase.
+3. Mostrar relevância com um fato verificável sobre o negócio da pessoa, que você de fato viu (ver 3.2).
+4. Citar um terceiro só se a relação existe e dá para dizê-la às claras ("atendemos a clínica X, que autorizou citar", "nos vimos no evento Y"). Nunca para sugerir indicação ou parceria que não houve.
+5. Facilitar o retorno: um canal e uma pergunta fácil de responder.
+6. Acompanhar pelas regras abaixo.
 
-**Exemplo curto (ilustração minha).** "Oi, Paulo, ligo por causa da clínica aqui da esquina, a Santa Luzia. Me liga no 11 90000 0000."
+**Estrutura de abordagem B2B (adaptação desta skill).** Quatro partes:
 
-**Como melhorar.** Ampliar a lista de terceiros conhecidos (clientes atuais do negócio são o terceiro natural) e acompanhar todos os retornos.
+| Parte | Função |
+|---|---|
+| 1. Apresentar-se com nome e empresa | Dizer quem fala |
+| 2. Um fato verificável sobre o negócio | Mostrar que a mensagem é para essa pessoa, sem inventar |
+| 3. O problema específico com que você trabalha | Dar o motivo real do contato |
+| 4. A pergunta se faz sentido enviar um material ou uma proposta concreta | Pedir um passo pequeno e fácil de recusar |
 
-**Erros comuns.** Apresentar-se logo de início com nome e empresa; deixar de fazer o acompanhamento (curso, Cold Outreach Playbook).
+Modelo: "Olá, [nome]. Sou [nome], da [empresa]. Vi [fato verificável sobre o negócio]. Trabalhamos com [problema específico]. Faz sentido eu enviar [material ou proposta concreta]?"
+
+**Regras (adaptação desta skill).**
+- Recusa e pedido de parar. Quem recusou ou pediu para parar não recebe nova tentativa da mesma oferta, em canal nenhum. Registre o pedido e tire a pessoa da lista (ver 3.4).
+- Acompanhamento (follow-up). Mais tentativas e mais canais só enquanto não houver recusa e dentro da regra do canal. Cada tentativa se identifica de novo (nome e empresa) e traz algo novo, não a mesma mensagem repetida nem urgência que não existe.
+- Dado público não é autorização. Achar o contato de alguém em site, rede ou diretório não dá permissão para disparo. Antes de operar de verdade, confira a regra aplicável ao canal (e-mail, ligação, WhatsApp, SMS, DM) e a lei de proteção de dados.
+- Só fato verdadeiro: o elogio, o cliente citado, o resultado e o "vi que..." precisam ser reais.
+
+**Exemplo curto (ilustração minha, adaptação desta skill).** Recado de voz: "Oi, Paulo, aqui é a Camila, da Agenda Cheia. Vi que a clínica Santa Luzia passou a abrir aos sábados. Trabalhamos com redução de faltas em consulta. Faz sentido eu te mandar um exemplo? Meu número é 11 90000 0000."
+
+**Como melhorar.** Comparar a resposta com o fato personalizado e sem ele; testar o problema específico que abre a mensagem. Quem responde segue para a qualificação em [qualificacao-sdr.md](./qualificacao-sdr.md); a medição e o desenho do teste ficam em [metricas-experimentos.md](./metricas-experimentos.md).
+
+**Erros comuns.** Omitir a empresa; citar terceiro ou insinuar indicação, parceria ou relação inexistente; fato inventado ou genérico; esquecer o acompanhamento; insistir depois de recusa; tratar contato público como autorização (adaptação desta skill).
 
 ### 3.6 Números, rotina e custo
 
@@ -401,7 +424,7 @@ Fonte da tabela: curso, Cold Outreach Playbook. A combinação ao vivo e automá
 
 **Quando usar.** Para planejar a rotina e decidir quando contratar alguém. Quem roda o frio precisa saber todas as taxas de cabeça (livro).
 
-**Passo a passo (ficha diária).** Quem: você. O quê: gancho mais isca, ou a oferta principal. Onde: qualquer canal privado. Para quem: lista raspada, comprada ou montada à mão. Quando: todo dia, 7 dias por semana. Como: ligação, recado de voz, e-mail, SMS, DM, vídeo, áudio, mala direta, carta à mão. Quanto: 100 por dia. Por quanto tempo: o que for preciso (curso) ou, no livro, pelo menos 100 dias (livro; curso, Cold Outreach Playbook).
+**Passo a passo (ficha diária).** Quem: você. O quê: gancho mais isca, ou a oferta principal. Onde: qualquer canal privado. Para quem: lista raspada, comprada ou montada à mão. Quando: todo dia, 7 dias por semana, na ficha do autor; ajuste à capacidade e à regra do canal (adaptação desta skill). Como: ligação, recado de voz, e-mail, SMS, DM, vídeo, áudio, mala direta, carta à mão. Quanto: 100 por dia, referência do autor (ver a regra dos 100 abaixo). Por quanto tempo: o que for preciso (curso) ou, no livro, pelo menos 100 dias (livro; curso, Cold Outreach Playbook).
 
 **Regras e números.**
 
@@ -414,19 +437,22 @@ Fonte da tabela: curso, Cold Outreach Playbook. A combinação ao vivo e automá
 
 (livro; curso, Cold Outreach Playbook; divergência de 20% versus 25% no item 1)
 
-- Mínimo de 100 contatos por dia e piso de 100 dias. Com 100 por dia durante 100 dias o autor garante que aparecem leads engajados (livro).
-- Meta de sucesso: lucro vitalício do cliente de pelo menos 3 vezes o custo de aquisição (LTGP sobre CAC). A empresa do exemplo passa de 30 para 1 (livro).
-- Para ir além do mínimo, fazer a conta de trás para frente: se 100 e-mails dão 1 cliente, 100 clientes exigem 10.000 e-mails, ou 333 por dia, ou 3 pessoas mandando 111 por dia (livro).
+As taxas da tabela são do autor, em mercado americano, e servem de ponto de partida para a hipótese, não de previsão. Use as taxas do seu negócio assim que tiver (adaptação desta skill; ver [metricas-experimentos.md](./metricas-experimentos.md)).
+
+- Regra dos 100 (livro): 100 contatos por dia e piso de 100 dias. O autor afirma que, assim, aparecem leads engajados. É heurística dele para manter constância, não exigência universal nem garantia.
+- Dimensionamento do volume (adaptação desta skill): defina o lote pelo tamanho da lista, pela personalização que cada contato pede, pela equipe, pelo custo, pelo tempo de resposta e pela capacidade de atender quem responde. Marque uma data de revisão e interrompa antes dela se houver problema operacional (respostas sem atendimento, fila estourada) ou evidência clara de baixa aderência (muita gente sem o problema, recusas em série). Venda B2B complexa com poucos compradores não pede 100 contatos por dia: com uma lista de 150 contas, 100 por dia esgotam a lista em dias e queimam leads caros. Nesse caso, personalize mais e espace a cadência.
+- Meta de sucesso do autor: lucro vitalício do cliente de pelo menos 3 vezes o custo de aquisição (LTGP sobre CAC). A empresa do exemplo passa de 30 para 1 (livro). É referência contextual do negócio dele, não garantia de viabilidade: depende de margem, ciclo de venda e retenção observada (adaptação desta skill; ver [metricas-experimentos.md](./metricas-experimentos.md)).
+- Para dimensionar o volume, fazer a conta de trás para frente, com as taxas como hipótese: se 100 e-mails dão 1 cliente, 100 clientes exigem 10.000 e-mails, ou 333 por dia, ou 3 pessoas mandando 111 por dia (livro).
 - Custo é quase todo mão de obra. Exemplo do livro: representante a US$ 15 por hora mais US$ 50 por reunião realizada, US$ 3.600 de lucro por venda, lead a cerca de US$ 0,10, 200 ligações por dia e cerca de 2 reuniões por dia. Isso dá US$ 120 de salário, US$ 100 de comissão e US$ 20 de leads, ou US$ 240 por 2 reuniões. Fechando 1 em 3, o custo por cliente fica em US$ 360 e o retorno em 10 para 1 sobre US$ 3.600. A explicação "sem comissões" no texto não bate com essa conta [?] (livro).
 - Quando o lucro por lead engajado superar o custo de pagar um funcionário, treinar outra pessoa a fazer (livro).
-- Caso de escala por e-mail (empresa do portfólio, curso e livro): uma assistente virtual manda 2.000 e-mails por dia, ou 60 mil por mês, com várias ferramentas encadeadas. Gera cerca de 40 leads engajados por dia (a taxa de resposta caiu porque se tirou personalização). Cerca de 10% compram, ou 4 clientes por dia, a mais de US$ 20.000 de valor por cliente. A empresa começou em US$ 250 mil por mês de receita e saiu do teto de 100 clientes por mês (livro; curso, Cold Outreach Playbook).
+- Caso de escala por e-mail (empresa do portfólio, curso e livro): uma assistente virtual manda 2.000 e-mails por dia, ou 60 mil por mês, com várias ferramentas encadeadas. Gera cerca de 40 leads engajados por dia (a taxa de resposta caiu porque se tirou personalização). Cerca de 10% compram, ou 4 clientes por dia, a mais de US$ 20.000 de valor por cliente. A empresa começou em US$ 250 mil por mês de receita e saiu do teto de 100 clientes por mês (livro; curso, Cold Outreach Playbook). É caso do autor, em mercado americano; disparo em massa pede conferir a regra do canal e a lei aplicável antes (adaptação desta skill).
 - Exemplo de nicho de ticket alto: 4% de engajamento e, supondo 1 em 3 convertendo, 1 cliente a cada 100 tentativas (livro).
 
-**Exemplo curto (ilustração minha).** Uma consultoria tributária vende contrato de R$ 20 mil. Se 1 cliente sai de cada 200 contatos, para 5 clientes por mês ela precisa de 1.000 contatos por mês, cerca de 50 por dia útil. A conta dá o tamanho do time.
+**Exemplo curto (ilustração minha).** Uma consultoria tributária vende contrato de R$ 20 mil. Se 1 cliente sai de cada 200 contatos, para 5 clientes por mês ela precisa de 1.000 contatos por mês, cerca de 50 por dia útil. A conta dá o tamanho do time, desde que existam compradores suficientes na região para sustentar esse ritmo; se não existirem, a conta muda a estratégia (menos contatos, mais personalização), não o volume.
 
 **Como melhorar.** Medir a taxa de cada etapa (atende, aceita, agenda, comparece, fecha), achar a etapa com maior queda e mexer nela (método em [fundamentos.md](./fundamentos.md), seção 15).
 
-**Erros comuns.** Não medir; mexer no script antes de bater o número de quem já funciona; contar menos de 100 por dia (livro; curso, Cold Outreach Playbook).
+**Erros comuns.** Não medir; mexer no script antes de bater o número de quem já funciona; não ter a conta de volume do próprio negócio (o autor mira 100 por dia, referência dele) (livro; curso, Cold Outreach Playbook).
 
 ### 3.7 Time de contato frio (cota de leads, copiar o melhor)
 
@@ -452,7 +478,7 @@ O curso e o livro listam sete razões. Servem para decidir se o frio entra na mi
 2. Concorrente não vê o que você diz, então não copia e você cresce em silêncio.
 3. É confiável: passado o primeiro lead pelo funil inteiro, é aumentar o volume. O pipeline acumula, e depois de um ou dois anos há leads contatados 6, 12 e 18 meses atrás.
 4. Poucas mudanças de plataforma: as regras de ligação e porta mudaram pouco em décadas.
-5. Conformidade mais leve (só a lei, sem regras de plataforma), embora a conformidade legal continue valendo. Os dois materiais não discutem consentimento nem regras para SMS em massa e dados de leads (lacuna).
+5. Conformidade mais leve, na visão do autor (só a lei, sem regras de plataforma), embora a conformidade legal continue valendo. Os dois materiais não discutem consentimento nem regras para SMS em massa e dados de leads (lacuna). "Mais leve" não é licença: cada canal (e-mail, ligação, WhatsApp, SMS) tem regra própria, a ser conferida antes de operar (adaptação desta skill).
 6. Sem porta-voz, o negócio fica mais vendável. O autor atribui parte do múltiplo na venda da Gym Launch a 50% das vendas virem de outbound.
 7. É difícil de copiar: o trabalho é achar abertura, acompanhamento e oferta certos e reaproveitar por anos, em vez de renovar anúncios e ganchos sempre.
 
@@ -463,10 +489,11 @@ O curso e o livro listam sete razões. Servem para decidir se o frio entra na mi
 2. Que lista comprada ou raspada valeria uma amostra de algumas centenas para testar contato atualizado e perfil?
 3. Que informação de uma linha sobre cada lead (obra recente, post, abertura de unidade) dá uma abertura personalizada?
 4. Que coisa o mercado cobra e o negócio poderia dar de graça em menos de 30 segundos de atenção, de forma que dizer não pareça tolice?
-5. Quem é o terceiro conhecido do alvo (cliente, concorrente, vizinho) para um recado de voz curto?
+5. Que fato verificável sobre cada lead (uma obra, um post, uma abertura de unidade) sustenta uma abertura verdadeira, e que relação real com o alvo, se existir, pode ser dita às claras (cliente que autorizou ser citado, evento em comum)?
 6. Qual a sequência de canais e dias para a mesma pessoa (e-mail, DM, ligação, áudio) e quando a lista volta ao topo?
 7. Com a taxa de cada etapa estimada, quantos contatos por dia o negócio precisa para o número de clientes desejado, e isso pede automação ou tem de ficar manual?
 8. O ticket é alto o bastante para o frio compensar, ou é melhor recrutar parceiros que tragam os clientes finais?
+9. Onde fica registrado quem recusou ou pediu para parar, para ninguém receber nova tentativa da mesma oferta, e qual é a regra de cada canal que vamos usar?
 
 ---
 
@@ -478,25 +505,25 @@ O curso e o livro listam sete razões. Servem para decidir se o frio entra na mi
 | 2 | Quantos clientes saem de 100 contatos quentes | Cerca de 20 respondem, cerca de 4 aceitam o grátis, cerca de 1 vira pagante (livro) | Cerca de 20% respondem. De 100 contatos saem 1 a 2 compradores. De uma lista de 2.000, 20 a 40 clientes (curso, First 5 Clients Framework) |
 | 3 | Cadência de tentativas | Quente: até 3 vezes, uma por dia por 3 dias ou até responderem; carta física, 1 por semana (livro). Frio, ficha: dia 1 duas vezes, dia 2 duas vezes, dia 7 uma vez (esquema truncado [?]) (livro) | Quente: 3 vezes, em horários e canais diferentes (curso, First 5 Clients Framework). Frio: 2 a 3 tentativas por dia nos primeiros dias, depois uma por dia durante sete dias (curso, Cold Outreach Playbook) |
 | 4 | Quando subir o preço depois dos grátis | Quando as indicações aparecerem; depois de 80%, 60% e 40%, "e assim por diante" (livro) | Quando as indicações aparecerem ou faltar capacidade; lista 80%, 60%, 40%, 20% e preço cheio; ritmo e salto adaptáveis; voltar aos clientes grátis quando houver fila (curso, First 5 Clients Framework) |
-| 5 | Duração do frio | Piso de 100 dias, sem parar antes (livro) | Ficha diz "o tempo que for preciso", sem piso de dias (curso, Cold Outreach Playbook) |
+| 5 | Duração do frio | Piso de 100 dias, sem parar antes (livro; heurística do autor, ver 3.6) | Ficha diz "o tempo que for preciso", sem piso de dias (curso, Cold Outreach Playbook) |
 | 6 | Quem deve ir ao frio, tempo ou dinheiro | Com mais dinheiro do que tempo, frio ou anúncios; com mais tempo e dinheiro, conteúdo (livro) | Serve a quem tem mais tempo que dinheiro, porque a lista pode ser montada à mão (curso, Cold Outreach Playbook) |
 | 7 | Por que as duas primeiras tentativas de frio do autor falharam | Teve de contratar quem já tinha feito, e contratar quem não acompanha métrica falhou (livro). No fechamento do livro: um consultor externo com experiência falhou, um interno sem experiência falhou, funcionou o interno com experiência (livro) | Duas falharam por falta de acompanhamento de métricas, a terceira deu certo quando a pessoa media tudo (curso, Cold Outreach Playbook). Na aula do roteiro, a mesma sequência é contada pela experiência do contratado (curso, The Roadmap) |
 
-Os pontos 1 e 2 mudam o planejamento de volume, então vale tratar a taxa como hipótese a medir. O ponto 6 não é resolvido nas fontes. O ponto 7 é possivelmente complementar (métrica e experiência), mas as fontes o contam de duas formas.
+Os pontos 1 e 2 mudam o planejamento de volume, então vale tratar a taxa como hipótese a medir. A cadência do ponto 3 e o piso do ponto 5 são referências do autor, que valem só enquanto não houver recusa e dentro da regra do canal (adaptação desta skill). O ponto 6 não é resolvido nas fontes. O ponto 7 é possivelmente complementar (métrica e experiência), mas as fontes o contam de duas formas.
 
-Lacunas das fontes (não preencher por conta própria): o roteiro de ligação, e-mail e DM que o autor diz fornecer no fim do capítulo não aparece, só o recado de voz com terceiro e a estrutura da ligação; não há taxa de referência para DM no curso nem para SMS e carta em nenhuma fonte; a conta de custo de US$ 360 por cliente e o fechamento de 4 ou 5 leads por hora não batem [?]; a nova oferta grátis que triplicou a resposta no curso não é dita; os nomes da empresa de software e do executivo do BAMFAM ficam fora deste arquivo por não estarem claros.
+Lacunas das fontes (não preencher por conta própria): o roteiro de ligação, e-mail e DM que o autor diz fornecer no fim do capítulo não aparece, só o recado de voz com terceiro (que esta skill não adota, ver 3.5) e a estrutura da ligação; não há taxa de referência para DM no curso nem para SMS e carta em nenhuma fonte; a conta de custo de US$ 360 por cliente e o fechamento de 4 ou 5 leads por hora não batem [?]; a nova oferta grátis que triplicou a resposta no curso não é dita; os nomes da empresa de software e do executivo do BAMFAM ficam fora deste arquivo por não estarem claros.
 
 ---
 
 ## Checklist
 
-Ficha diária do contato quente (curso, First 5 Clients Framework; livro). Quem: você. O quê: os cinco primeiros grátis. Onde: mensagem, ligação, e-mail, carta, SMS. Para quem: os contatos que você já tem. Quando: as 4 primeiras horas do dia. Por quê: clientes ou apresentações a clientes. Como: abertura personalizada e ACA. Quanto: 100 tentativas por dia. Quantos acompanhamentos: mais 2 depois do primeiro. Por quanto tempo: até conseguir os clientes. A ficha do contato frio está na seção 3.6.
+Ficha diária do contato quente (curso, First 5 Clients Framework; livro). Quem: você. O quê: os cinco primeiros grátis. Onde: mensagem, ligação, e-mail, carta, SMS. Para quem: os contatos que você já tem. Quando: as 4 primeiras horas do dia. Por quê: clientes ou apresentações a clientes. Como: abertura personalizada e ACA. Quanto: a referência do autor é 100 tentativas por dia, ajustada à lista e à capacidade. Quantos acompanhamentos: mais 2 depois do primeiro, se não houver recusa. Por quanto tempo: até conseguir os clientes. A ficha do contato frio está na seção 3.6.
 
 Contato quente e primeiros 5:
 - [ ] Lista montada (contatos do celular, e-mails antigos, redes), contada e separada por plataforma.
 - [ ] Oferta grátis de cinco vagas definida, com os três compromissos (uso, retorno, avaliação) e os custos ocultos revisados.
 - [ ] Mensagem de teste escrita na estrutura (dor, vagas, motivo, sem o esforço temido, garantia, dois casos, pergunta, condições).
-- [ ] Rotina: 100 contatos por dia, nas primeiras horas, com mais 2 acompanhamentos por pessoa.
+- [ ] Rotina: lote diário dimensionado pela lista e pela capacidade (referência do autor: 100), nas primeiras horas, com até mais 2 acompanhamentos por pessoa, só sem recusa e dentro da regra do canal.
 - [ ] Respostas conduzidas por ACA, com 3 a 4 trocas antes da oferta.
 - [ ] Apresentação a três para cada indicação.
 - [ ] Gatilho para subir o preço definido (indicações ou lotação) e a escada escrita.
@@ -507,10 +534,11 @@ Contato frio:
 - [ ] Quente rodando antes de abrir o frio.
 - [ ] Lista com amostra testada (contato atualizado, responde, perfil certo).
 - [ ] Abertura personalizada anotada por lead; roteiros passados por verificador de nível de leitura.
+- [ ] Toda abertura diz nome e empresa de quem fala e o motivo real, sem insinuar indicação, parceria ou relação inexistente (adaptação desta skill).
 - [ ] Oferta grátis de valor visível, entendida em menos de 30 segundos.
 - [ ] Roteiros curtos (ligação e chat em 1 a 2 páginas, e-mail em meia, DM em 2 ou 3 frases).
-- [ ] Sequência de canais e vezes escrita; pedido para não contatar respeitado; lista volta ao topo e é refeita em 3 a 6 meses.
-- [ ] 100 contatos por dia pelo menos por 100 dias, com taxa de cada etapa registrada.
-- [ ] Conta de trás para frente feita (contatos por cliente, LTGP sobre CAC de pelo menos 3 para 1).
+- [ ] Sequência de canais e vezes escrita, com regra do canal conferida; recusa e pedido para não contatar registrados e respeitados (sem nova tentativa da mesma oferta); lista volta ao topo, sem quem recusou, e é refeita em 3 a 6 meses.
+- [ ] Volume dimensionado por lista, personalização, equipe, custo, tempo de resposta e capacidade (referência do autor: 100 por dia por 100 dias), com data de revisão, critério de interrupção antecipada e taxa de cada etapa registrada.
+- [ ] Conta de trás para frente feita (contatos por cliente; LTGP sobre CAC de 3 para 1 só como referência contextual do autor, não garantia).
 - [ ] Mudança de script só depois de bater o número do melhor.
 - [ ] Equipe: cota de leads abaixo da capacidade, meta absoluta, nenhum lead abandonado.

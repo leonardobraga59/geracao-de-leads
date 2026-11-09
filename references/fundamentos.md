@@ -1,8 +1,10 @@
 # Fundamentos
 
-Abra este arquivo primeiro, antes de qualquer canal: ele define lead, o mapa dos quatro métodos, o ímã de lead, a regra de volume e a rota de crescimento. O detalhe de cada canal está em [contato-um-a-um.md](contato-um-a-um.md), [um-para-muitos.md](um-para-muitos.md) e [quem-traz-lead.md](quem-traz-lead.md).
+Abra este arquivo primeiro, antes de qualquer canal: ele define lead, o mapa dos quatro métodos, o ímã de lead, a heurística de volume do autor (a regra dos 100) e a rota de crescimento. O detalhe de cada canal está em [contato-um-a-um.md](contato-um-a-um.md), [um-para-muitos.md](um-para-muitos.md) e [quem-traz-lead.md](quem-traz-lead.md).
 
 Convenções: "livro" é o $100M Leads, de Alex Hormozi. "Curso" é o $100M Leads Course, gratuito, do mesmo autor, citado pelo nome da aula. Os exemplos marcados como "Ilustração" foram escritos para esta skill e não vêm do material. Todos os números de resultado são afirmações do autor, sem verificação independente. Valores em dólares e mercado norte-americano.
+
+Números e prazos do autor (100 por dia, 100 dias, razão 3 para 1, metas de indicação) são referências de contexto dele, nunca exigência universal nem garantia de viabilidade. O que leva "(adaptação desta skill)" é correção ou acréscimo desta skill: não vem do livro nem do curso e não deve ser atribuído a eles.
 
 ---
 
@@ -17,6 +19,7 @@ Convenções: "livro" é o $100M Leads, de Alex Hormozi. "Curso" é o $100M Lead
 2. Você entrega algo que desperta interesse: oferta principal ou ímã de lead (seções 7 a 9).
 3. Ela age (responde, aceita, deixa o contato). Agora é lead engajado.
 4. Cada canal passa a ser medido em leads engajados, não em alcance, curtida ou lista bruta.
+5. (adaptação desta skill) Lead engajado continua sendo a métrica de topo, mas a medição completa inclui qualidade (aderência e intenção), vendas e custo total. Definições e fórmulas em [metricas-experimentos.md](metricas-experimentos.md).
 
 **Regras e números.**
 - Seguir você numa rede em que dá para mandar mensagem já conta como lead. Dar o contato num site ou responder a uma campanha de e-mail torna o lead engajado (curso, Problem & Definition).
@@ -27,7 +30,7 @@ Convenções: "livro" é o $100M Leads, de Alex Hormozi. "Curso" é o $100M Lead
 - Livro, primeira metade: engajado é quem demonstrou interesse. Livro, segunda metade: engajado é quem deu permissão de contato depois de demonstrar interesse (livro, abertura da segunda metade). Na prática as duas exigem contato e interesse juntos.
 - O curso lista casos que o autor não fecha: quem só clica no anúncio, quem tem contato comprado, quem segue num canal onde não dá para mandar mensagem. Tratar como zona cinzenta e registrar a regra que o negócio adotar (curso, Problem & Definition).
 
-**Exemplo (ilustração).** Uma clínica odontológica tem 3 mil seguidores no Instagram e 400 contatos no WhatsApp. Os 3 mil são leads se a clínica consegue mandar direct a eles. Os 40 que pediram o checklist de higiene infantil por mensagem são os leads engajados. O número que a clínica acompanha é 40, não 3.400.
+**Exemplo (ilustração).** Uma clínica odontológica tem 3 mil seguidores no Instagram e 400 contatos no WhatsApp. Os 3 mil são leads se a clínica consegue mandar direct a eles. Os 40 que pediram o checklist de higiene infantil por mensagem são os leads engajados. O número que a clínica acompanha no topo é 40, não 3.400, e depois confere quantos dos 40 tinham aderência e quantos compraram.
 
 **Erros comuns.** Contar lista, curtida ou visita como cliente em potencial sem checar interesse. Usar a palavra errada e agir sobre a métrica errada (argumento do autor, livro).
 
@@ -58,7 +61,7 @@ Convenções: "livro" é o $100M Leads, de Alex Hormozi. "Curso" é o $100M Lead
 - Ele relata que as empresas da carteira dele tiveram 1,8 vez a receita e cerca de 3 vezes o lucro em 12 meses, e 2,3 vezes e 4,7 vezes em 24 meses, com o modelo aplicado. Sem método de cálculo informado (curso, Problem & Definition).
 - Caso pessoal: em dezembro de 2016 ele ficou com cerca de mil dólares na conta e enfrentou cerca de 150 mil em estornos numa semana. Uma ligação oferecendo leads a donos de academia rendeu 60 mil em um dia e 215 mil em caixa no mês. A lição que ele tira é que saber conseguir lead deu chances de tentar outra vez (curso, Context).
 
-**Erros comuns.** Pular para "ganhar dinheiro" sem montar as três peças (o que vender, gente para vender, a venda) (livro). Assumir que vai ganhar e não registrar as perdas (curso, Context).
+**Erros comuns.** Pular para "ganhar dinheiro" sem montar as três peças (o que vender, gente para vender, a venda) (livro). Assumir que vai ganhar e não registrar as perdas (curso, Context). Concluir que toda dificuldade pede mais leads, sem passar pelo diagnóstico da seção 3 (adaptação desta skill).
 
 **Exemplo (ilustração).** Um estúdio de pilates com ótima aula e agenda com 40% de vagas vazias. Antes de mexer no programa, o dono conta quantas pessoas por semana receberam uma oferta de aula experimental. Se a resposta é 12, o gargalo é lead, não aula.
 
@@ -80,12 +83,13 @@ Convenções: "livro" é o $100M Leads, de Alex Hormozi. "Curso" é o $100M Lead
 **Passo a passo.**
 1. Os leads engajados têm o problema que você resolve e dinheiro para pagar? Se não, o problema está no anúncio ou na segmentação. Se têm, mas chegam poucos, também é anúncio.
 2. Se têm e não compram, o problema é de vendas (livro; curso, Paid Ads Playbook Pt II).
-3. Se compram, mas o custo de aquisição (CAC) não fecha com o lucro por cliente, compare com o CAC médio do setor. Até 3 vezes a média, o problema tende a ser o modelo de negócio, e a saída é subir o lucro bruto vitalício (LTGP). Acima de 3 vezes, volte ao passo 1: o problema é a publicidade (livro e; curso, Employees).
-4. A régua do modelo é a razão LTGP:CAC, de no mínimo 3 para 1. O cálculo está em [um-para-muitos.md](um-para-muitos.md), seção "Eficiência, LTGP sobre CAC e diagnóstico".
+3. Se compram, mas o custo de aquisição (CAC) não fecha com o lucro por cliente, compare com o CAC médio do setor. Até 3 vezes a média, o problema tende a ser o modelo de negócio, e a saída é subir o lucro bruto vitalício (LTGP). Acima de 3 vezes, volte ao passo 1: o problema é a publicidade (livro e; curso, Employees). Os cortes de 3 vezes são referência do autor para o contexto dele, não limite universal.
+4. O autor usa a razão LTGP:CAC, com 3 para 1 como referência observada nos negócios dele, nunca como garantia de viabilidade. O cálculo está em [um-para-muitos.md](um-para-muitos.md), seção "Eficiência, LTGP sobre CAC e diagnóstico". (adaptação desta skill) Em assinatura, compare o CAC com a contribuição observada por coorte e horizonte, sem supor permanência ilimitada.
 
 **Regras e números.**
 - Caso do autor: uma empresa gastou 12 semanas e 150 mil dólares em anúncios, recebia o lead certo, não vendia e abandonou o canal. Ele estima que isso custou cerca de 30 milhões em valor da empresa por perder um segundo grande canal (livro e curso concordam; livro; curso, Paid Ads Playbook Pt II).
 - Antes de concluir que um canal falhou, conferir o volume (seção 13).
+- (adaptação desta skill) O diagnóstico olha cinco pontos: volume, qualidade, conversão, entrega e economia. Mais leads só resolvem quando o gargalo é volume.
 
 **Erros comuns.** Culpar o anúncio quando o problema é a venda, ou o contrário. Desistir antes de ter volume e tempo.
 
@@ -113,7 +117,7 @@ Detalhe de cada célula: contato quente e frio em [contato-um-a-um.md](contato-u
 **Passo a passo.**
 1. Classificar cada ação de divulgação que o negócio faz hoje em uma das quatro células.
 2. Identificar as células vazias ou fracas.
-3. Escolher uma para levar ao máximo (seção 5) e aplicar a regra dos 100 (seção 12).
+3. Escolher uma para levar ao máximo (seção 5) e dimensionar o volume diário dela (seção 12; a regra dos 100 é a heurística do autor, não a meta obrigatória).
 
 **Regras e números.**
 - Quente: quem conhece você e deu permissão de contato (amigos, família, seguidores, clientes atuais e antigos, contatos). Frio: quem não deu permissão (estranhos, audiência de outros, listas montadas ou compradas, plataformas pagas).
@@ -121,11 +125,12 @@ Detalhe de cada célula: contato quente e frio em [contato-um-a-um.md](contato-u
 - Distinção do curso: outbound é o primeiro contato em ambiente privado (e-mail, SMS, voicemail, DM). Inbound é o primeiro contato em ambiente público (anúncio, post, outdoor, podcast), mesmo que a conversa vire privada depois (curso, First 5 Clients Framework).
 - Ser "quente" exige que a pessoa conheça você, não que você conheça a pessoa. A relação pode ser de mão única e cresce com a exposição (curso).
 - Em plataforma como o Facebook, o público deu permissão à plataforma, e você a usa como intermediária. Quem se cadastra passa a ser seu lead e esfria com o tempo (curso).
+- (adaptação desta skill) Ser "frio" não dispensa transparência: dado público ou lista comprada não autoriza disparo. Regras de abordagem em [contato-um-a-um.md](contato-um-a-um.md).
 - Depois dos quatro métodos vêm os quatro captadores de leads (clientes, funcionários, agências, afiliados), que fazem o Core Four por você. Ver [quem-traz-lead.md](quem-traz-lead.md).
 
 **Divergência entre fontes.** O livro define quente como "deu permissão"; o curso acrescenta que basta conhecer você. Usar a definição do curso para decidir, a do livro para pedir autorização de contato.
 
-**Exemplo (ilustração).** Uma contadora faz só contato quente (mensagem a ex-clientes) e anúncio. Mapeando: nada em conteúdo e nada em contato frio. Primeira ideia: 100 minutos por dia de conteúdo sobre declaração de imposto, e uma lista de 500 donos de loja da cidade para contato frio.
+**Exemplo (ilustração).** Uma contadora faz só contato quente (mensagem a ex-clientes) e anúncio. Mapeando: nada em conteúdo e nada em contato frio. Primeira ideia: uma peça por dia de conteúdo sobre declaração de imposto, e uma lista de 500 donos de loja da cidade para contato frio, com mensagem personalizada e identificada.
 
 **Erros comuns.** Achar que existem dezenas de estratégias distintas, quando são variações dos quatro. Confundir inbound e outbound pelo canal em vez do ambiente do primeiro contato. Confundir automação com comunicação pública.
 
@@ -134,7 +139,7 @@ Detalhe de cada célula: contato quente e frio em [contato-um-a-um.md](contato-u
 - Quem na base atual é "quente" e nunca recebeu um contato um para um?
 - Que conteúdo público já existe e poderia gerar conversa privada?
 - Que lista fria poderia ser montada em uma semana, com critério claro de quem entra?
-- Se só um dos quatro pudesse ser feito por 100 dias, qual teria o maior retorno e por quê?
+- Se só um dos quatro pudesse ser feito por três meses, qual teria o maior retorno e por quê?
 - Como cada célula alimenta a outra (lista do quente vira público semelhante do anúncio, conteúdo aquece o frio)?
 
 ---
@@ -158,7 +163,7 @@ Detalhe de cada célula: contato quente e frio em [contato-um-a-um.md](contato-u
 
 **Divergência entre fontes.** A primeira metade do livro e o curso dão a ordem fixa quente, conteúdo, frio, anúncio. A segunda metade do livro trata frio e anúncio como alternativos conforme a folga de tempo ou de dinheiro. Registrar as duas e decidir pelo recurso que o negócio tem mais.
 
-**Exemplo (ilustração).** Fundadora de uma marca de cosméticos com pouco dinheiro e tempo moderado: 100 mensagens por dia a conhecidos por duas semanas, e depois um vídeo curto por dia. Anúncio só entra quando houver margem conhecida e verba para perder.
+**Exemplo (ilustração).** Fundadora de uma marca de cosméticos com pouco dinheiro e tempo moderado: 20 mensagens personalizadas por dia a conhecidos por duas semanas (o que cabe na lista e no tempo dela), e depois um vídeo curto por dia. Anúncio só entra quando houver margem conhecida e verba para perder.
 
 **Erros comuns.** Começar por anúncio sem ter aprendido a oferta e o cliente nos canais baratos. Espalhar-se em quatro métodos sem levar nenhum ao limite.
 
@@ -204,7 +209,7 @@ Detalhe de cada célula: contato quente e frio em [contato-um-a-um.md](contato-u
 
 **Exemplo (ilustração).** Promessa de um serviço de reforma: "banheiro novo em 15 dias" (tempo), "sem você sair de casa nem escolher material" (esforço), "veja o banheiro do vizinho da rua de baixo" (prova de gente parecida), "se passar do prazo, cada dia vale desconto" (garantia com algo em jogo).
 
-**Erros comuns.** Prometer sem prova. Esquecer o esforço e o custo oculto (tempo, reunião, aprovação). Usar certificado sem legitimidade. Usar foto com famoso como se fosse endosso, o que o curso diz queimar a marca.
+**Erros comuns.** Prometer sem prova. Esquecer o esforço e o custo oculto (tempo, reunião, aprovação). Usar certificado sem legitimidade. Usar foto com famoso como se fosse endosso, o que o curso diz queimar a marca. (adaptação desta skill) Prova só vale se for verdadeira: não citar terceiro sem autorização nem insinuar relação, parceria ou indicação que não existe.
 
 **Perguntas para gerar ideias.**
 - Qual é o resultado dos sonhos do cliente, dito com as palavras dele?
@@ -303,7 +308,7 @@ Detalhe de cada célula: contato quente e frio em [contato-um-a-um.md](contato-u
 - Qual versão em software (calculadora, planilha, teste) o negócio consegue fazer em uma tarde?
 - Qual versão em serviço (um favor concreto de 30 minutos) o time pode bancar?
 - Qual versão física (kit, amostra pelo correio, caderno) cabe no caixa?
-- Entre as 12 combinações, quais três testar esta semana?
+- Entre as 12 combinações, quais três testar primeiro, com amostra definida antes?
 
 ---
 
@@ -390,7 +395,7 @@ Detalhe de cada célula: contato quente e frio em [contato-um-a-um.md](contato-u
 | Custo por cliente | 3.000 | 1.000 |
 | Retorno (conta minha a partir dos números do autor) | cerca de 3 para 1 | 10 para 1 |
 
-Mesma verba, cerca de 3 vezes o negócio. O autor também diz que a isca mais forte traz mais engajamento e mais vendas porque o valor foi entregue antes, e que 10 vezes mais leads engajados pelo mesmo custo acontece quando a isca é boa (afirmação dele). Uma isca com 25 dólares de custo de entrega compra muito mais valor do que uma com custo zero.
+Mesma verba, cerca de 3 vezes o negócio. O autor também diz que a isca mais forte traz mais engajamento e mais vendas porque o valor foi entregue antes, e que 10 vezes mais leads engajados pelo mesmo custo acontece quando a isca é boa (afirmação dele). Uma isca com 25 dólares de custo de entrega compra muito mais valor do que uma com custo zero. Os números da tabela são o exemplo do autor, não benchmark: refaça a conta com os custos e as taxas do seu negócio.
 
 **Exemplo (ilustração).** Se um curso de 3 mil reais exige falar com 30 pessoas para vender 1 e uma aula gravada reduz a 8 conversas por venda, o custo de produzir a aula se paga em poucas vendas.
 
@@ -406,37 +411,44 @@ Mesma verba, cerca de 3 vezes o negócio. O autor também diz que a isca mais fo
 
 ## 12. Regra dos 100 (Rule of 100)
 
-**O que é.** Compromisso de fazer 100 ações primárias de divulgação por dia, durante 100 dias seguidos, em um dos métodos. A meta é inteiramente sua, o que remove a desculpa de "não depende de mim". O autor promete que isso gera leads engajados (curso, More Better New e Open To Goal; livro).
+**O que é.** Heurística do autor para criar constância: fazer 100 ações primárias de divulgação por dia, durante 100 dias seguidos, em um dos métodos. A meta é inteiramente sua, o que remove a desculpa de "não depende de mim". O autor afirma que isso gera leads engajados (curso, More Better New e Open To Goal; livro). É referência dele, nunca exigência universal.
 
-**Quando usar.** Como piso mínimo para quem está começando ou ainda não gera leads suficientes. É o "mais" do mais, melhor, novo. Se faltam leads, a primeira pergunta é se os 100 foram feitos hoje.
+**Quando usar.** Como inspiração de constância para quem está começando ou ainda não gera leads suficientes. É o "mais" do mais, melhor, novo. Se faltam leads, a primeira pergunta é se a meta diária combinada foi feita hoje, e se ela cabia na lista, na equipe e no atendimento.
 
-**Passo a passo (100 por método).**
+**Passo a passo (os 100 do autor, por método).**
 
-| Método | O que são os 100 |
+| Método | O que são os 100 (referência do autor) |
 |---|---|
 | Contato quente | 100 contatos por dia (e-mail, mensagem, direct, ligação, SMS, voicemail) |
 | Conteúdo | 100 minutos por dia, ao menos uma peça por dia em uma plataforma (vídeo curto ou longo, artigo, podcast, infográfico), mais plataformas se couber |
 | Contato frio | 100 contatos por dia (inclui panfleto e ligação a frio), resposta menor, automação compensa |
 | Anúncio pago | **ver divergência abaixo** |
 
+**Dimensionar a meta real (adaptação desta skill).**
+1. A meta se define pelo tamanho da lista, pelo nível de personalização, pela equipe, pelo custo, pelo tempo de resposta e pela capacidade de atender quem responder.
+2. Lista pequena ou venda complexa pede menos contatos, mais personalização e cadência própria. Contatar 100 pessoas por dia numa lista de 300 esgota o público em três dias.
+3. Escreva a meta, o período de revisão e os sinais de parada antes de começar: problema operacional (atendimento não dá conta, resposta atrasada, reclamações) ou evidência clara de baixa aderência (os respondentes não têm o problema que o negócio resolve).
+4. Pare ou ajuste antes do fim do período se um sinal de parada aparecer. Constância não obriga a insistir no que está dando errado.
+5. Medição e critério de decisão em [metricas-experimentos.md](metricas-experimentos.md).
+
 **Regras e números.**
-- 100 por dia durante 100 dias, não 100 ao longo de semanas (livro).
+- Referência do autor: 100 por dia durante 100 dias, não 100 ao longo de semanas (livro).
 - Ganhos: entender o valor de um lead, ganhar repetições e poder ensinar o método depois (curso).
 - Levantamento do Facebook citado nas duas fontes: os 0,1% melhores anunciantes testam 11 vezes mais criativos que os demais. Não se escala um anúncio medíocre, e achar os excepcionais exige produzir mais (livro; curso, More Better New).
 - Os detalhes da rotina de contato quente (4 horas por dia) e frio estão em [contato-um-a-um.md](contato-um-a-um.md).
 
-**Divergência entre fontes (anúncio pago).** Livro: 100 minutos por dia fazendo anúncios, no orçamento diário calculado antes e mirando aquisição financiada pelo cliente (livro). Curso: 100 dólares por dia, reduzindo se não houver verba (curso, More Better New e Open To Goal). Registrar as duas. Para um negócio sem verba, a versão de tempo do livro é a mais viável; com verba, a do curso é mais mensurável.
+**Divergência entre fontes (anúncio pago).** Livro: 100 minutos por dia fazendo anúncios, no orçamento diário calculado antes e mirando aquisição financiada pelo cliente (livro). Curso: 100 dólares por dia, reduzindo se não houver verba (curso, More Better New e Open To Goal). Registrar as duas como referências do autor, não como orçamento recomendado: o gasto real sai do lucro bruto por cliente, da verba que o negócio aceita perder e do teto de atendimento. Para um negócio sem verba, a versão de tempo do livro tende a ser a mais viável; com verba, a do curso é mais mensurável.
 
-**Exemplo (ilustração).** Uma loja de decoração escolhe conteúdo. Cem minutos por dia: gravar três vídeos curtos de 30 segundos mostrando antes e depois de um canto da casa, editar, postar e responder aos comentários. Contagem diária feita num caderno.
+**Exemplo (ilustração).** Uma loja de decoração, com uma pessoa disponível uma hora por dia, escolhe conteúdo. A meta é um vídeo curto por dia, mostrando antes e depois de um canto da casa, mais a resposta aos comentários. Contagem diária feita num caderno, com revisão em duas semanas: se o atendimento dos comentários atrasar, a meta cai para quatro vídeos por semana.
 
 **Erros comuns.** Querer culpar o canal sem ter feito o volume. Desistir antes da repetição mínima. Contar 100 ao longo de semanas.
 
 **Perguntas para gerar ideias.**
-- Qual método é o mais viável de executar 100 vezes por dia com o time e o caixa que o negócio tem?
-- Que parte dos 100 pode ser automatizada sem perder a pessoalidade?
+- Qual método é o mais viável de executar todo dia com o time e o caixa que o negócio tem, e qual é a meta diária que cabe?
+- Que parte da meta diária pode ser automatizada sem perder a pessoalidade?
 - Quem pode assumir a contagem diária e cobrar o número?
-- Que ação de 100 pode ser feita nas primeiras horas do dia, sem interrupção?
-- Se o negócio fizer 100 por dia durante 100 dias, quantos leads engajados espera, pelas taxas de cada canal?
+- Que ação da meta diária pode ser feita nas primeiras horas do dia, sem interrupção?
+- Cumprida a meta dimensionada no período combinado, quantos leads engajados o negócio espera, pelas taxas de cada canal, e que sinal faria parar antes?
 
 ---
 
@@ -447,18 +459,19 @@ Mesma verba, cerca de 3 vezes o negócio. O autor também diz que a isca mais fo
 **Quando usar.** Antes de dizer que um canal, oferta ou mensagem não funciona.
 
 **Passo a passo.**
-1. Definir o tamanho do teste antes de começar.
-2. Medir a taxa de resposta.
+1. Definir o tamanho do teste antes de começar, pela lista disponível e pela capacidade de atendimento.
+2. Medir a taxa de resposta e, junto, a qualidade das respostas, as vendas e o custo total (ver [metricas-experimentos.md](metricas-experimentos.md)).
 3. Se passar do piso, escalar o volume.
+4. (adaptação desta skill) Sem amostra suficiente, ou com o ciclo de venda ainda aberto, o resultado é inconclusivo: não declare canal falho, nem vencedor.
 
 **Regras e números.**
-- Caso do autor: distribuiu 300 panfletos e a única ligação foi uma reclamação. Um mentor testava com 5.000 panfletos. Com 300, meio por cento seria 1,5 pessoa, dado que não permite concluir nada.
-- Quem diz "mandei 100 mensagens em seis semanas e vendi uma" fez, segundo o autor, cerca de um quadragésimo do trabalho: eram 100 por dia, não 100 ao todo (livro).
+- Caso do autor: distribuiu 300 panfletos e a única ligação foi uma reclamação. Um mentor testava com 5.000 panfletos, volume que só faz sentido onde existe público tão grande. Com 300, meio por cento seria 1,5 pessoa, dado que não permite concluir nada.
+- Quem diz "mandei 100 mensagens em seis semanas e vendi uma" fez, segundo o autor, cerca de um quadragésimo do trabalho: eram 100 por dia, não 100 ao todo (livro). É a régua dele; numa lista pequena o volume possível é menor, e então a conclusão tem de ser mais cautelosa, não mais firme.
 - Testar com 20 pessoas e esperar 1% de resposta é esperar 0,2 pessoa (curso, First 5 Clients Framework).
 
 **Divergência entre fontes (limiares do mentor).** Curso: 0,5% é aceitável, 1% bom, 2% ótimo, e acima de 0,5% o mentor passava a distribuir 5.000 por dia (cerca de 150 mil por mês, 500 vezes o teste do autor). Livro: 0,5% decente e 1% vencedor, com o mentor testando 5.000 por dia. A direção é a mesma, os limiares diferem.
 
-**Exemplo (ilustração).** Antes de concluir que "e-mail frio não funciona", o negócio define 1.000 e-mails em duas semanas, com a mesma mensagem, e só então lê a taxa de resposta.
+**Exemplo (ilustração).** Antes de concluir que "e-mail frio não funciona", o negócio define um lote (por exemplo, 500 e-mails identificados, com a mesma mensagem, para quem tem o problema que ele resolve, em duas semanas) e só então lê a taxa de resposta. Se a lista inteira tem 80 nomes, o resultado fica inconclusivo.
 
 **Erros comuns.** Fazer certo, mas pouco, e culpar o método. Deixar o esforço ser a causa do fracasso.
 
@@ -472,13 +485,13 @@ Mesma verba, cerca de 3 vezes o negócio. O autor também diz que a isca mais fo
 
 ## 14. Aberto até a meta (Open to Goal)
 
-**O que é.** Versão intensa da regra dos 100. Em vez de um número fixo de ações, você fixa um resultado do dia e só para ao atingi-lo, não importa quantas horas leve (curso, Open To Goal; livro).
+**O que é.** Versão intensa da heurística dos 100. Em vez de um número fixo de ações, você fixa um resultado do dia e só para ao atingi-lo, não importa quantas horas leve (curso, Open To Goal; livro).
 
-**Quando usar.** Quando a regra dos 100 já é rotina. Pré-requisito: um resultado numérico claro para o dia (por exemplo, número de respostas ou reuniões marcadas).
+**Quando usar.** Quando a meta diária já é rotina e há lista e capacidade de atendimento sobrando. Pré-requisito: um resultado numérico claro para o dia (por exemplo, número de respostas ou reuniões marcadas). (adaptação desta skill) Defina também o teto de contatos do dia e o ponto de parada por problema operacional ou baixa aderência: meta de resultado não pode virar insistência sem fim nem disparo para quem não faz sentido contatar.
 
 **Passo a passo.**
 1. Definir o resultado do dia.
-2. Fazer as ações até chegar. Em alguns dias serão 150 contatos, em outros 200.
+2. Fazer as ações até chegar, dentro do teto do dia. Em alguns dias serão 150 contatos, em outros 200, no exemplo do autor.
 3. Contar o progresso.
 4. Encerrar ao bater a meta.
 
@@ -495,7 +508,7 @@ Mesma verba, cerca de 3 vezes o negócio. O autor também diz que a isca mais fo
 
 **Divergência entre fontes (tamanho do bloco).** Curso: 4 a 6 horas sem interrupção, com exemplo de 10 horas ininterruptas (das 5h às 15h) na agenda de trás para frente. Livro: acordar às 4h ou 5h e um bloco de cerca de 8 horas, e sugere reduzir um pouco se for demais no começo. Registrar a faixa de 4 a 10 horas e deixar o negócio escolher.
 
-**Exemplo (ilustração).** Meta do dia: 5 conversas marcadas. Se as 100 mensagens renderem 3, mais 50 mensagens até chegar a 5.
+**Exemplo (ilustração).** Meta do dia: 5 conversas marcadas, teto de 120 mensagens. Se as primeiras 80 renderem 3, mais 40 até chegar a 5 ou ao teto; sem a quinta, a meta passa para o dia seguinte e a taxa baixa é revisada em vez de compensada com mais volume.
 
 **Erros comuns.** Trocar a meta por tempo gasto. Parar quando fica cansativo. Começar o dia por e-mail ou reunião. Atribuir o fracasso à oferta, ao texto ou à plataforma quando o esforço foi insuficiente (livro).
 
@@ -519,17 +532,17 @@ Mesma verba, cerca de 3 vezes o negócio. O autor também diz que a isca mais fo
 2. Aumentar o volume até o limite de capacidade. Mais funciona porque a economia já fecha.
 3. Princípio de mais criativos: a qualidade vem da quantidade de testes. Não se escala um anúncio medíocre com lucro (curso, More Better New).
 
-### Melhor (Better): achar o gargalo e testar uma coisa por semana
+### Melhor (Better): achar o gargalo e testar uma coisa por vez
 1. Listar a taxa de cada etapa do funil (clique, cadastro, aplicação, agendamento, comparecimento).
 2. Simular o efeito de somar, por exemplo, 5 pontos percentuais em cada etapa. A etapa com maior ganho percentual é a restrição (constraint).
-3. Testar uma coisa por semana, por plataforma. Segunda-feira: rodar o teste. Na segunda seguinte: escolher o vencedor, registrar o resultado num registro de testes e definir o próximo para vencer a melhor versão atual (livro).
+3. Testar uma coisa por vez, por plataforma. O autor usa a semana como ritmo: segunda-feira rodar o teste; na segunda seguinte escolher o vencedor, registrar o resultado num registro de testes e definir o próximo para vencer a melhor versão atual (livro). (adaptação desta skill) A revisão semanal organiza o trabalho, mas não torna o resultado conclusivo: sem amostra ou com o ciclo de venda incompleto, registre "inconclusivo" e estenda o teste.
 4. Rodar até haver amostra, checar com uma calculadora de significância estatística, manter o vencedor e seguir (curso, More Better New).
 5. Se ninguém superar a versão atual em quatro tentativas (cerca de um mês), passar para o próximo gargalo (livro).
 6. Priorizar de frente para trás, na ordem em que o lead vê: chamada, elementos de valor, oferta, CTA, página, título, subtítulo, imagem. As etapas da frente têm taxas baixas (cerca de 1% clica), por isso costumam ser a restrição.
 
 Conta do autor (as duas fontes trazem o mesmo exemplo): 30% se cadastram, 5% se candidatam, 50% agendam. Somar 5 pontos a cada etapa dá +16% no primeiro, +100% (dobra) no segundo e +10% no terceiro. Atacar a candidatura. Levar de 5% a 20% quadruplicaria o resultado.
 
-Motivos para um teste por vez: saber o que funcionou, testes se afetam entre si, o limite obriga a escolher o que mais traz leads, e o tempo precisa dar amostra sem atrasar a próxima restrição. Em um ano são 52 melhorias. Dá para testar em paralelo em canais independentes (um funil do Instagram e outro do YouTube), nunca em duas coisas do mesmo caminho (curso).
+Motivos para um teste por vez: saber o que funcionou, testes se afetam entre si, o limite obriga a escolher o que mais traz leads, e o tempo precisa dar amostra sem atrasar a próxima restrição. Em um ano seriam até 52 melhorias, no melhor caso do autor e só se cada teste fechar com amostra. Dá para testar em paralelo em canais independentes (um funil do Instagram e outro do YouTube), nunca em duas coisas do mesmo caminho (curso).
 
 Caso da Gym Launch (curso): cresceu 40% em um ano e meio só melhorando métricas do funil (comparecimento de 65% para 70%, CTR de 1,1% para 1,2%, taxa de atendimento).
 
@@ -550,18 +563,18 @@ Só quando mais e melhor rendem menos do que o mesmo esforço em algo novo. Muda
 
 **Divergência entre fontes.** Mesmo caso, números diferentes. Curso: gastava 40 mil por mês em anúncios no Facebook, mercado de mais de 10 bilhões. Livro: gastava 30 mil por mês numa plataforma, mercado de 15,1 bilhões. O ponto do exemplo (o mercado era muito maior do que a pessoa achava) é o mesmo.
 
-**Exemplo (ilustração).** Padaria com entregas por WhatsApp e 80 pedidos por semana. Mais: dobrar para 200 contatos novos por semana. Melhor: o gargalo é entre "pediu o cardápio" e "fez o primeiro pedido", e um teste por semana ataca isso. Novo: stories com o forno aberto às 6h, depois Reels, só depois anúncio.
+**Exemplo (ilustração).** Padaria com entregas por WhatsApp e 80 pedidos por semana. Mais: dobrar para 200 contatos novos por semana, se der conta de responder todos. Melhor: o gargalo é entre "pediu o cardápio" e "fez o primeiro pedido", e um teste por vez ataca isso, com revisão toda semana e decisão só quando houver pedidos suficientes. Novo: stories com o forno aberto às 6h, depois Reels, só depois anúncio.
 
-**Erros comuns.** O dono está perto demais do negócio e raramente pergunta "o que impede 10 vezes mais". Escalar anúncio medíocre e frustrar-se. Melhorar etapa em que o ganho percentual é pequeno. Gastar o teste da semana em detalhe sem efeito. Dizer "cheguei no limite" em vez de admitir que a peça não é tão boa.
+**Erros comuns.** O dono está perto demais do negócio e raramente pergunta "o que impede 10 vezes mais". Escalar anúncio medíocre e frustrar-se. Melhorar etapa em que o ganho percentual é pequeno. Gastar o teste da semana em detalhe sem efeito. Declarar vencedor só porque a semana terminou (adaptação desta skill). Dizer "cheguei no limite" em vez de admitir que a peça não é tão boa.
 
 **Perguntas para gerar ideias.**
 - Qual método está dando resultado e o que impede de fazer 10 vezes mais dele?
 - Qual é a taxa de cada etapa do funil, e onde somar 5 pontos dobra o resultado?
-- Que teste de uma semana (manchete, imagem, oferta, CTA) é o primeiro?
+- Que teste (manchete, imagem, oferta, CTA) é o primeiro, e quanto tempo ele precisa para ter amostra?
 - Que posicionamento novo na plataforma onde o negócio já está nunca foi usado?
 - Que conteúdo ou anúncio que funcionou pode ir para outra plataforma sem mudar nada?
 - Qual a porcentagem estimada do mercado já alcançada?
-- O negócio tem um registro de testes (o que testou, quem ganhou)?
+- O negócio tem um registro de testes (hipótese, amostra, o que testou, quem ganhou ou "inconclusivo")? Modelo de ficha em [metricas-experimentos.md](metricas-experimentos.md).
 - Que dado falta para saber a conversão de ponta a ponta, do clique à venda?
 
 ---
@@ -584,14 +597,14 @@ Só quando mais e melhor rendem menos do que o mesmo esforço em algo novo. Muda
 |---|---|
 | Curso, Open To Goal | 5 a 10% do investimento em anúncios (relato de empresário que ensinou), ou valor fixo. Para conteúdo e prospecção, cerca de 10% do esforço (um dia a cada duas semanas, ou um por semana). O autor fixou 10 mil dólares por mês |
 | Livro | 1%, 5% ou 10% do orçamento de anúncios |
-| Livro, lições de anúncio | Para o primeiro anúncio, 100 dólares reais, sem parar no último passo; começar com um valor mensal que aceita perder |
+| Livro, lições de anúncio | Para o primeiro anúncio, 100 dólares reais, sem parar no último passo; começar com um valor mensal que aceita perder (o valor é do autor, não piso nem teto) |
 | Curso, Paid Ads Playbook Pt II | Exemplo de mil dólares por mês de perda aceita, por 3 a 6 meses, até o funil todo "clicar" |
 
 - Dias de "hackathon" da equipe de mídia do autor: um ou dois dias por mês em que todos produzem uma ou duas peças malucas, sem reunião; muitas das melhores ideias de conteúdo vêm daí (curso).
 - O relato do livro: ao triplicar o orçamento, a receita foi de 400 mil dólares em junho para 780 mil em julho, com testes de público, de follow-up por texto em massa, de mais volume de anúncio e de afiliados somando-se depois. Resumo dele: ou se ganha ou se aprende (livro).
 - O aprendizado vem do gasto real, porque a atenção fica mais alta (curso).
 
-**Divergência entre fontes.** Faixa de 1 a 10% (livro) ou 5 a 10% (curso) do orçamento. Dado que o livro admite 1%, usar a faixa maior como teto e a menor como ponto de partida.
+**Divergência entre fontes.** Faixa de 1 a 10% (livro) ou 5 a 10% (curso) do orçamento. Dado que o livro admite 1%, usar a faixa maior como teto e a menor como ponto de partida. Todos os valores são referências do autor: o orçamento real é o que o negócio aceita perder sem ferir o caixa.
 
 **Exemplo (ilustração).** Negócio que investe R$ 5 mil por mês em anúncios separa R$ 250 (5%) para testar uma campanha de vídeo com um criativo diferente por semana e registra o que aprendeu.
 
@@ -619,13 +632,15 @@ Só quando mais e melhor rendem menos do que o mesmo esforço em algo novo. Muda
 | 1 | Seus amigos conhecem o que você vende (uma oferta, um avatar, uma plataforma) | Contato quente. Quando surge lead engajado, já dá para ganhar dinheiro |
 | 2 | Você avisa constantemente a todos que conhece e sabe os insumos de um lead engajado, mas esbarra na sua capacidade pessoal | Contato quente e conteúdo, o máximo e com constância |
 | 3 | Você esgotou suas entradas pessoais, não a plataforma | Contratar quem divulgue com lucro (o autor contratou um videomaker e um comprador de mídia) |
-| 4 | Produto bom o suficiente para indicação constante, meta de 25% ou mais dos clientes vindos de indicação | Melhorar o produto até as indicações vierem de forma consistente, depois voltar a escalar com equipe maior |
+| 4 | Produto bom o suficiente para indicação constante, meta do autor de 25% ou mais dos clientes vindos de indicação | Melhorar o produto até as indicações vierem de forma consistente, depois voltar a escalar com equipe maior |
 | 5 | Você mantém produto e indicações enquanto anuncia em mais lugares e formas | Anunciar com lucro em pelo menos dois métodos e em várias plataformas (novos públicos na melhor plataforma, todos os posicionamentos, depois outra plataforma ou outro método) |
 | 6 | Departamentos por método ou plataforma | Contratar "matadores": executivos veteranos, com incentivos ligados ao resultado, que criam e tocam o departamento sem você |
 | 7 | Deixado em branco pelo autor | Ele promete preencher depois de passar de 1 bilhão |
 
 **Regras e números.**
 - Nível 4: o livro acrescenta atualizar o produto a cada duas semanas com o feedback e lançar um programa forte de indicação, e diz que é onde a maioria erra, deixando o produto piorar sem se recuperar. O curso cita um processo de 6 passos de indicação sem detalhá-lo nesta aula. Na aula de indicação há seis alavancas de boa vontade e um roteiro de seis passos para mais clientes terem bom resultado, e um dos dois é provavelmente o processo citado [?]. Ver [quem-traz-lead.md](quem-traz-lead.md), seção "Fazer o produto merecer a indicação".
+- (adaptação desta skill) Indicação só vira crescimento depois da conversão. Novos clientes por indicação = base inicial × proporção que indica × média de indicados por indicador × conversão dos indicados. Exemplo hipotético: 100 × 10% × 1 × 20% = 2 clientes novos; com 5 cancelamentos e nenhum outro movimento, a base final é 97. Nunca iguale a porcentagem de clientes que indicam à porcentagem de clientes novos, nem compare direto a porcentagem que indica com a que cancela. Conte as aquisições efetivas no CRM, sem contar a mesma pessoa em dois canais, e deixe a janela de conversão compatível com o ciclo de venda.
+- As metas e os prazos da rota (25% por indicação, um terço dos clientes trazendo clientes, 5 a 10 anos) são referências do autor para o contexto dele, não garantia nem exigência.
 - Nível 6: contratar experiência, não potencial. Prospecção a frio falhou duas vezes (consultor externo com experiência, depois alguém interno sem) e funcionou na terceira (interno e com experiência). Teste da entrevista: se você aprende algo com a pessoa, bom sinal; se sente que está ensinando, desista (curso, The Roadmap; livro).
 - Não perder o produto de vista ao escalar, para evitar o ciclo vicioso de saída de clientes (o curso chama de "hamster wheel of death"). Máxima: ir devagar para ir rápido.
 - O gráfico é limpo, o negócio real é bagunçado. Só se descobre o que funciona testando por tempo suficiente (curso).
@@ -639,7 +654,7 @@ Só quando mais e melhor rendem menos do que o mesmo esforço em algo novo. Muda
 
 **Perguntas para gerar ideias.**
 - Em que nível o negócio está hoje e qual é a ação principal dele?
-- O produto está bom o bastante para um em cada quatro clientes vir por indicação?
+- O produto está bom o bastante para a indicação trazer clientes novos de forma consistente (o autor usa 25% como meta), medida pelas aquisições efetivas no CRM?
 - Qual atividade de captação o dono faz hoje e qual alguém poderia fazer com lucro?
 - Quem teria experiência exata no que o negócio precisa e poderia ensinar o dono?
 - O que o negócio só precisaria começar a fazer em outra plataforma, com a mesma peça?
@@ -655,7 +670,7 @@ Só quando mais e melhor rendem menos do que o mesmo esforço em algo novo. Muda
 
 **Passo a passo.**
 1. Escolher o tipo de lead engajado a conseguir.
-2. Escolher entre regra dos 100 e aberto até a meta, e se comprometer com a ação diária.
+2. Definir a meta diária, usando como referência a regra dos 100 ou o aberto até a meta, dimensionada pela lista, pela equipe e pela capacidade (seção 12), e se comprometer com a ação diária.
 3. Preencher o quadro:
 
 | Pergunta | Resposta |
@@ -667,18 +682,18 @@ Só quando mais e melhor rendem menos do que o mesmo esforço em algo novo. Muda
 | Quando | Primeiras horas do dia (ver divergência) |
 | Por quê | Quantos leads engajados ou captadores |
 | Como | O método do Core Four |
-| Quanto | 100, ou até bater a meta |
+| Quanto | A meta diária dimensionada (o autor usa 100), ou até bater a meta |
 | Quantos | Acompanhamentos, vezes, remarketing |
-| Por quanto tempo | 100 dias ou até a meta |
+| Por quanto tempo | O período combinado, com data de revisão e sinais de parada (o autor usa 100 dias), ou até a meta |
 
 4. Repetir a ação diária até ter dinheiro para pagar alguém.
 5. Voltar ao passo 1 com funcionários como novo tipo de lead e repetir os passos 1 a 4 até ter a ajuda necessária. Depois escalar de novo.
 
-**Regras e números.** O curso resume tudo em quatro ações: falar com quem conhece, falar com quem não conhece, postar em público, rodar anúncio. Para o curso, faltar cliente, funcionário, afiliado ou agência é sinal de divulgação insuficiente. O livro fecha no mesmo ponto: estudar o método não traz ninguém, só a divulgação feita traz.
+**Regras e números.** O curso resume tudo em quatro ações: falar com quem conhece, falar com quem não conhece, postar em público, rodar anúncio. Para o curso, faltar cliente, funcionário, afiliado ou agência é sinal de divulgação insuficiente (confira antes o diagnóstico da seção 3). O livro fecha no mesmo ponto: estudar o método não traz ninguém, só a divulgação feita traz.
 
 **Divergência entre fontes (quando).** Curso: as primeiras 6 ou 8 horas do dia. Livro: as primeiras 8 horas. Para contato quente, o livro e o curso dizem as 4 primeiras horas do dia.
 
-**Exemplo (ilustração).** Quem: eu. O quê: checklist de caixa para MEI. Onde: Instagram e WhatsApp. Para quem: 400 contatos de ex-clientes. Quando: 7h às 11h. Por quê: 20 conversas por semana. Como: contato quente. Quanto: 100 mensagens por dia. Quantos: duas mensagens de acompanhamento. Por quanto tempo: 100 dias.
+**Exemplo (ilustração).** Quem: eu. O quê: checklist de caixa para MEI. Onde: Instagram e WhatsApp. Para quem: 400 contatos de ex-clientes. Quando: 7h às 11h. Por quê: 20 conversas por semana. Como: contato quente. Quanto: 30 mensagens por dia, o que a lista de 400 e o tempo dela comportam. Quantos: duas mensagens de acompanhamento. Por quanto tempo: 30 dias, com revisão na metade.
 
 **Erros comuns.** Escrever plano longo que não é usado. Esperar ajuda sem ter feito a captação sozinho primeiro.
 
@@ -686,7 +701,7 @@ Só quando mais e melhor rendem menos do que o mesmo esforço em algo novo. Muda
 - Qual tipo de lead o negócio precisa mais este mês?
 - Se o plano coubesse em 10 linhas, quais seriam?
 - Quem vai cobrar o número diário?
-- O que acontece no dia 101?
+- O que acontece quando o período acaba: renova, ajusta ou para, e com base em qual número?
 - Qual a data em que a captação própria vira função de alguém contratado?
 
 ---
@@ -697,7 +712,7 @@ Só quando mais e melhor rendem menos do que o mesmo esforço em algo novo. Muda
 
 **Quando usar.** Para sustentar a disciplina em fases de resultado negativo ou ao testar uma plataforma nova.
 
-**Regras e números.** A parábola tira duas conclusões: cada tentativa a mais melhora as chances seguintes, e desistir é a única forma certa de perder. O autor conta perder mais vezes do que ganhar em divulgação.
+**Regras e números.** A parábola tira duas conclusões: cada tentativa a mais melhora as chances seguintes, e desistir é a única forma certa de perder. O autor conta perder mais vezes do que ganhar em divulgação. (adaptação desta skill) Persistir não é repetir o que não funciona: se houver problema operacional ou evidência clara de baixa aderência, pare ou ajuste, e registre o que aprendeu.
 
 **Erros comuns.** Esperar acertar na primeira rolada. Comparar-se com quem está na milésima tentativa. Atribuir o sucesso alheio à sorte.
 
@@ -716,19 +731,21 @@ Só quando mais e melhor rendem menos do que o mesmo esforço em algo novo. Muda
 | Conteúdo (gancho, retenção, recompensa, dar e pedir), anúncio pago (call out, o quê, quem, quando, CTA, página, LTGP e CAC, aquisição financiada pelo cliente) | [um-para-muitos.md](um-para-muitos.md) |
 | Clientes que indicam (inclui a apresentação a três), funcionários, agências, afiliados | [quem-traz-lead.md](quem-traz-lead.md) |
 | Usar o método num projeto real (contexto, diagnóstico, escolha de canal, formato das ideias) | [aplicar-num-projeto.md](aplicar-num-projeto.md) |
+| Qualificar o lead e decidir o destino (oferta direta, nutrição, SDR, encerramento) | [qualificacao-sdr.md](qualificacao-sdr.md) |
+| Definições, fórmulas, CAC completo, ficha de teste e critérios de decisão | [metricas-experimentos.md](metricas-experimentos.md) |
 
 ---
 
 ## Checklist
 
-- [ ] O negócio sabe contar leads engajados por semana, por canal.
-- [ ] Antes de culpar o canal, conferiu se o lead tem o problema e o dinheiro, e se o volume foi suficiente.
+- [ ] O negócio sabe contar leads engajados por semana, por canal, e acompanha também qualidade, vendas e custo total.
+- [ ] Antes de culpar o canal, conferiu se o lead tem o problema e o dinheiro, e se o volume e o ciclo de venda deram amostra (senão, inconclusivo).
 - [ ] Classificou o que faz hoje nas quatro células do Core Four e escolheu uma para levar ao máximo.
 - [ ] Tem uma oferta principal testada e, se o ticket é alto, ao menos um ímã de lead com problema estreito que leva à oferta.
 - [ ] A isca tem versões nos três tipos e nas quatro formas de entrega listadas, e nome testado.
 - [ ] Todo material termina em um CTA com uma ação e um motivo real.
-- [ ] A regra dos 100 (ou aberto até a meta) está definida, com número, horário e quem conta.
-- [ ] Há um registro de testes e um teste por semana por plataforma, no gargalo do funil.
+- [ ] A meta diária está dimensionada pela lista, equipe e capacidade (a regra dos 100 é só a referência do autor), com número, horário, quem conta, data de revisão e sinais de parada.
+- [ ] Há um registro de testes e um teste por vez por plataforma, no gargalo do funil, com revisão semanal e decisão só com amostra suficiente.
 - [ ] Existe um orçamento de aprendizado e um dia para peças experimentais.
 - [ ] O negócio sabe em que nível da rota de crescimento está e qual é a ação principal dele.
 - [ ] O plano de uma página está preenchido e visível.
