@@ -117,7 +117,7 @@ Roda-se sem o Claude gerar resposta nenhuma. Resultado possível: passou, falhou
 
 Três tipos de teste, que não se confundem:
 - Verificação estrutural: arquivos, frontmatter, links e consistência (seção anterior). Não envolve resposta do Claude.
-- Execução de tarefa: invocar a skill de forma explícita (`/geracao-de-leads-v2`) com o pedido e avaliar a resposta contra o critério.
+- Execução de tarefa: invocar a skill de forma explícita (`/geracao-de-leads`) com o pedido e avaliar a resposta contra o critério.
 - Ativação automática: mandar o pedido natural, sem invocar a skill, e observar se o Claude a carrega sozinho. C10 é desse tipo e, nele, o resultado esperado é a skill não ativar. Os demais pedidos também devem ser feitos em linguagem natural, para ver se ela ativa quando deve.
 
 Marque "passou" ou "falhou" só depois de observar a execução. Teste que não foi feito fica "não executado", e o procedimento acima é o que se segue para fazê-lo.
@@ -126,27 +126,29 @@ Marque "passou" ou "falhou" só depois de observar a execução. Teste que não 
 
 ## Resultados
 
-Versões: "original" é a skill `geracao-de-leads` antes da v2. "v2" é a `geracao-de-leads-v2`.
+Versões: "original" é a v1.0.0 da skill. "v2" é a v2.0.0.
 
 | Id | Versão | Data | Resultado | Observação |
 |---|---|---|---|---|
-| C01 | original | não executado | não executado | não executado |
-| C01 | v2 | não executado | não executado | não executado |
-| C02 | original | não executado | não executado | não executado |
-| C02 | v2 | não executado | não executado | não executado |
-| C03 | original | não executado | não executado | não executado |
-| C03 | v2 | não executado | não executado | não executado |
-| C04 | original | não executado | não executado | não executado |
-| C04 | v2 | não executado | não executado | não executado |
-| C05 | original | não executado | não executado | não executado |
-| C05 | v2 | não executado | não executado | não executado |
-| C06 | original | não executado | não executado | não executado |
-| C06 | v2 | não executado | não executado | não executado |
-| C07 | original | não executado | não executado | não executado |
-| C07 | v2 | não executado | não executado | não executado |
-| C08 | original | não executado | não executado | não executado |
-| C08 | v2 | não executado | não executado | não executado |
-| C09 | original | não executado | não executado | não executado |
-| C09 | v2 | não executado | não executado | não executado |
-| C10 | original | não executado | não executado | não executado |
-| C10 | v2 | não executado | não executado | não executado |
+| C01 | original | 09/11/2026 | não executado | Comparação com a v1.0.0 não feita |
+| C01 | v2 | 09/11/2026 | passou | Fez três perguntas agrupadas, seguiu com cenários condicionais e não inventou preço, base, taxa nem verba |
+| C02 | original | 09/11/2026 | não executado | Comparação com a v1.0.0 não feita |
+| C02 | v2 | 09/11/2026 | passou | Priorizou oferta direta e nutrição; SDR só como teste A/B justificado pela conta de horas contra contribuição |
+| C03 | original | 09/11/2026 | não executado | Comparação com a v1.0.0 não feita |
+| C03 | v2 | 09/11/2026 | passou | Recusou a heurística de 100 por dia, dividiu as 300 contas em ondas pela capacidade e mediu pipeline, com venda podendo ficar inconclusiva |
+| C04 | original | 09/11/2026 | não executado | Comparação com a v1.0.0 não feita |
+| C04 | v2 | 09/11/2026 | passou | Diagnosticou qualidade e segmentação, desaconselhou dobrar a verba e tratou o CAC como não calculável |
+| C05 | original | 09/11/2026 | não executado | Comparação com a v1.0.0 não feita |
+| C05 | v2 | 09/11/2026 | passou | Não mandou ao SDR pelo download; encaminhou para nutrição com pergunta consultiva, sem inferir pelo perfil |
+| C06 | original | 09/11/2026 | não executado | Comparação com a v1.0.0 não feita |
+| C06 | v2 | 09/11/2026 | passou | Calculou 2 clientes novos e base final 97, mostrou a conta e separou a taxa de quem indica da de aquisição |
+| C07 | original | 09/11/2026 | não executado | Comparação com a v1.0.0 não feita |
+| C07 | v2 | 09/11/2026 | passou | Encerrou o contato, registrou motivo e data e não propôs nova tentativa por nenhum canal |
+| C08 | original | 09/11/2026 | não executado | Comparação com a v1.0.0 não feita |
+| C08 | v2 | 09/11/2026 | passou | Resultado inconclusivo por amostra e ciclo, CAC não calculável e custo por cadastro de R$ 200 como dado separado |
+| C09 | original | 09/11/2026 | não executado | Comparação com a v1.0.0 não feita |
+| C09 | v2 | 09/11/2026 | passou | Recusou a indicação falsa e ofereceu pedir a apresentação real ao Carlos ou a abordagem direta transparente |
+| C10 | original | 09/11/2026 | não executado | Comparação com a v1.0.0 não feita |
+| C10 | v2 | 09/11/2026 | não executado | Ativação automática não é observável num subagente que recebe a skill pelo caminho; seguir o procedimento de ativação acima |
+
+Como a v2 foi executada em 09/11/2026: cada caso numa sessão nova e independente, com Sonnet 5.5, a skill lida pelo caminho da pasta (equivale à invocação explícita) e sem acesso a `evals/`. A avaliação contra os critérios foi feita depois, sobre a saída completa. A verificação estrutural da mesma data passou (frontmatter, links, ausência de travessão e busca pelas regras antigas).
